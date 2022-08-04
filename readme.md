@@ -1,8 +1,9 @@
 ***
 
 rPPG@Competition, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Competition.md  
-rPPG@UW, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DanielMcduff.md  
-rPPG@Oulu, https://github.com/Kwangkee/rPPG/blob/main/rPPG@ZitongYu.md  
+rPPG@DanielMcduff, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DanielMcduff.md  
+rPPG@ZitongYu, https://github.com/Kwangkee/rPPG/blob/main/rPPG@ZitongYu.md  
+rPPG@KangLee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md  
 rPPG@DataSystem, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md  
 rPPG@PublicData, https://github.com/Kwangkee/rPPG/blob/main/rPPG@PublicData.md  
 
