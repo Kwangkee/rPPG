@@ -1,8 +1,8 @@
 ***
 
 rPPG@Competition, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Competition.md  
-rPPG@UW, https://github.com/Kwangkee/rPPG/blob/main/PPG@UW.md  
-rPPG@Oulu, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Oulu.md  
+rPPG@UW, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DanielMcduff.md
+rPPG@Oulu, https://github.com/Kwangkee/rPPG/blob/main/rPPG@ZitongYu.md  
 rPPG@PublicData  
 
 ## MobilePhys
