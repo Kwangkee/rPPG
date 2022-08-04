@@ -8,7 +8,7 @@ rPPG@DataSystem, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md
 rPPG@PublicData, https://github.com/Kwangkee/rPPG/blob/main/rPPG@PublicData.md  
 
 ## Vendors
-Binah, https://www.binah.ai/  
+Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md  
 Nuralogix, https://www.nuralogix.ai/  
 FaceHeart, https://www.faceheart.com/index.php  
 VPGMedical, https://www.vpgmedical.com/  
