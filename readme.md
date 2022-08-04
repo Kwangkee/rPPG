@@ -9,7 +9,7 @@ rPPG@PublicData, https://github.com/Kwangkee/rPPG/blob/main/rPPG@PublicData.md
 
 ## Vendors
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md  
-Nuralogix, https://www.nuralogix.ai/  
+Binah, https://www.binah.ai/  
 FaceHeart, https://www.faceheart.com/index.php  
 VPGMedical, https://www.vpgmedical.com/  
 Google, https://blog.google/technology/health/take-pulse-health-and-wellness-your-phone
