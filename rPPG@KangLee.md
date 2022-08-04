@@ -17,6 +17,8 @@ https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#Nuralogix_Research
 
 https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#Nuralogix
 
+https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#Nuralogix_Research
+
 ***
 Back to the [Top](#rPPG)  
 Back to https://github.com/Kwangkee/rPPG
