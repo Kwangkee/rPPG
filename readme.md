@@ -14,6 +14,10 @@ MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing, 
 >-	데이터 수집/확보 환경, SmartPhone Camera의 특징 분석, 한계와 향후 방향을 나름 친절히 제시
 >-	특히 개발/제안 중인 과제들을 위해 참고할 만한 insight 들이 많습니다. Must Read Article!!!
 
+>pseudo PPG labels 를 얻기 위해 POS 를 사용했는데 한계가 많아서, 후방 카메라 (index finger) 를 활용했고, 결과적으로 모든 환경 변화에 적응할 수 있는 우수한 personalization 확인  >무엇보다 관심이 가는 얘기는, We plan to release this dataset with this paper.
+
+
+
 ## VitalSeer
 VitalSeer: The development of a contactless sensing technology based on a user-centric data-driven clinical approach - NCBI, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9285145/  
 
