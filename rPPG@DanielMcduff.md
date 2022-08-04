@@ -11,6 +11,8 @@ https://scholar.google.com/citations?hl=en&user=p9F83HoAAAAJ&view_op=list_works&
 ## Papers
 - [Daniel McDuff, Oct/2021] Learning Higher-Order Dynamics in Video-Based Cardiac Measurement, https://arxiv.org/abs/2110.03690 
 - Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors, https://www.nature.com/articles/s41598-020-67647-6 
+- MetaPhys: few-shot adaptation for non-contact physiological measurement, https://arxiv.org/abs/2010.01773 
+- Deepphys: Video-based physiological measurement using convolutional attention networks, https://openaccess.thecvf.com/content_ECCV_2018/html/Weixuan_Chen_DeepPhys_Video-Based_Physiological_ECCV_2018_paper.html
 
 
 ## FL rPPG 
