@@ -10,6 +10,7 @@ https://scholar.google.com/citations?hl=ko&user=iWXW0j4AAAAJ&view_op=list_works&
 - And much more, .... https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research  
 
 https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research
+https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research
 
 ***
 Back to the [Top](#rPPG)  
