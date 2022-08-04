@@ -11,8 +11,7 @@ Back to https://github.com/Kwangkee/rPPG
 - DeepAffex™
 
 
-#### Nuralogix Anura
-- https://www.nuralogix.ai/anura/
+#### [Nuralogix Anura](https://www.nuralogix.ai/anura/)
 - Android App : https://play.google.com/store/apps/details?id=ai.nuralogix.nura  
 - iPhone App : https://apps.apple.com/kr/app/anura/id1358813934  
  
