@@ -1,9 +1,9 @@
 ***
 
 rPPG@PublicData  
-rPPG@Competition, https://github.com/Kwangkee/FL/blob/main/rPPG@Competition.md  
-rPPG@UW, https://github.com/Kwangkee/FL/blob/main/FL@rPPG@UW.md  
-rPPG@Oulu, https://github.com/Kwangkee/FL/blob/main/FL@rPPG@Oulu.md  
+rPPG@Competition, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Competition.md  
+rPPG@UW, https://github.com/Kwangkee/rPPG/blob/main/FL@rPPG@UW.md  
+rPPG@Oulu, https://github.com/Kwangkee/rPPG/blob/main/FL@rPPG@Oulu.md  
 
 
 Binah, https://www.binah.ai/  
