@@ -1,4 +1,5 @@
-
+Back to https://github.com/Kwangkee/rPPG
+***
 
 ## MobilePhys
 MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=m7Jr-b4AAAAJ&sortby=pubdate&citation_for_view=m7Jr-b4AAAAJ:D_tqNUsBuKoC  
@@ -15,3 +16,7 @@ VitalSeer: The development of a contactless sensing technology based on a user-c
 >This paper presents the outcome of a multidisciplinary collaboration to ensure clinical usability of a remote contactless sensing technology, VitalSeer, and to help close gaps between emerging technologies and clinical practice. 
 
 >The studies on volunteers demonstrated the accuracy of VitalSeer’s heart rate model at a low MAE of 0.74 (bpm) and a RMSE of 1.2 bpm, **below the threshold of clinical grade contact-based sensors.**
+
+***
+Back to the [Top](#rPPG)  
+Back to https://github.com/Kwangkee/rPPG
