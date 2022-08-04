@@ -15,26 +15,22 @@ Back to https://github.com/Kwangkee/rPPG
 #### [Nuralogix Anura](https://www.nuralogix.ai/anura/)
 - Android App : https://play.google.com/store/apps/details?id=ai.nuralogix.nura  
 - iPhone App : https://apps.apple.com/kr/app/anura/id1358813934  
+
+#### AAMI
+- [2020/Oct, AAMI guideline] Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2:2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://journals.lww.com/bpmonitoring/Abstract/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx 
+>Objective 
+>>A new smartphone app called Anura can measure blood pressure (BP) any time and any place without cuffs or special equipment from video of the face. This study assessed its accuracy in close conformity with the American National Standards Institute/Association for the Advancement of Medical Instrumentation/International Organization for Standardization (ANSI/AAMI/ISO) 81060-2:2013 standard for BP measurement devices.    
+
+>Conclusions 
+>>Anura meets ANSI/AAMI/ISO 81060-2:2013 standard with respect to BP measurement accuracy. As the ANSI/AAMI/ISO 81060-2:2013 standard has not been developed for cuffless devices, further research assessing additional accuracy issues specific to such devices is needed.
  
-#### Kang Lee 
-https://scholar.google.com/citations?hl=ko&user=iWXW0j4AAAAJ&view_op=list_works&sortby=pubdate
-
-Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement, https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
-
-[2019, Blood Pressure] Smartphone-Based Blood Pressure Measurement Using Transdermal Optical Imaging Technology, https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.119.008857   
-Supplemental Material, https://www.ahajournals.org/doi/suppl/10.1161/CIRCIMAGING.119.008857 
-
-[2020/Oct, AAMI guideline] Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2:2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://journals.lww.com/bpmonitoring/Abstract/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx 
-
-특허
+ 
+#### 특허
 [2012-2021] System and method for camera-based stress determination, https://patents.google.com/patent/US20210361208A1/en 
 [2016-2021] System and method for contactless blood pressure determination, https://patents.google.com/patent/US20210085227A1/en 
 [2016-2021] System and method for detecting physiological state, https://patents.google.com/patent/US20210068735A1/en 
 
-[2019, Blood Pressure] Smartphone-Based Blood Pressure Measurement Using Transdermal Optical Imaging Technology, https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.119.008857   
-Supplemental Material, https://www.ahajournals.org/doi/suppl/10.1161/CIRCIMAGING.119.008857 
-
-#### [Nuralogix Research](https://www.nuralogix.ai/research/)
+#### [Nuralogix_Research](https://www.nuralogix.ai/research/)
 >2021년 HbA1c (당화혈색소), 2019년 Blood Pressure (수축기 혈압, 이완기 혈압, 맥압), 2018년 HR, HRV (심박, 스트레스) 적용 연구결과 발표  
 
 [2021/Nov, Blood Pressure] Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement, https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
@@ -47,7 +43,6 @@ Supplemental Material, https://www.ahajournals.org/doi/suppl/10.1161/CIRCIMAGING
 [2018: HR, HRV/Stress] Transdermal Optical Imaging Reveal Basal Stress via Heart Rate Variability Analysis: A Novel Methodology Comparable to Electrocardiography, https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00098/full
 [2018: HRV/Stress] Transdermal Optical Imaging Reveal Basal Stress via Heart Rate Variability Analysis: A Novel Methodology Comparable to Electrocardiography, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809462/  
 [2018] Transdermal optical imaging revealed diferent spatiotemporal patterns of facial cardiovascular activities, https://www.nature.com/articles/s41598-018-28804-0
-![image](https://user-images.githubusercontent.com/109835677/182787223-dc806d9d-3ec1-41ef-a127-91e2522869ae.png)
 
 
 ***
