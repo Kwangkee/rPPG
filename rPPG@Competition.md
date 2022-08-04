@@ -31,5 +31,5 @@ RePSS: Workshop and Challenge on Computer Vision for Physiological Measurement (
 
 
 ***
-Back to the [Top](## rPPG Workshops & Challenges)  
+Back to the [Top](# rPPG)  
 Back to https://github.com/Kwangkee/rPPG
