@@ -29,7 +29,7 @@ Back to https://github.com/Kwangkee/rPPG
 [2016-2021] System and method for contactless blood pressure determination, https://patents.google.com/patent/US20210085227A1/en 
 [2016-2021] System and method for detecting physiological state, https://patents.google.com/patent/US20210068735A1/en 
 
-#### [Research](https://www.nuralogix.ai/research/)
+#### [Nuralogix Research](https://www.nuralogix.ai/research/)
 >2021년 HbA1c (당화혈색소), 2019년 Blood Pressure (수축기 혈압, 이완기 혈압, 맥압), 2018년 HR, HRV (심박, 스트레스) 적용 연구결과 발표  
 
 [2021/Nov, Blood Pressure] Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement, https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full  
