@@ -10,7 +10,7 @@ https://scholar.google.com/citations?hl=en&user=p9F83HoAAAAJ&view_op=list_works&
 
 ## Papers
 >[CVPR 2022] Federated Remote Physiological Measurement with Imperfect Data, https://openaccess.thecvf.com/content/CVPR2022W/CVPM/html/Liu_Federated_Remote_Physiological_Measurement_With_Imperfect_Data_CVPRW_2022_paper.html  
->"각 client data의 “noise level and signal quality”를 안다고 가정하고 논문을 썼고, 앞으로 이를 자동화 (automating signal quality measurement/metric) 하는 것이 중요"   
+>>"각 client data의 “noise level and signal quality”를 안다고 가정하고 논문을 썼고, 앞으로 이를 자동화 (automating signal quality measurement/metric) 하는 것이 중요"   
 >
 >>In this paper, we propose a simple but effective version of federated averaging, called FedWeight, by leveraging knowledge about the signal quality from each client. Unlike FedAvg, which treats weights from all clients equally during model aggregation, our proposed leverages the fact that signal quality has a big impact on model performance to perform a more adaptive form of aggregation.
 >
