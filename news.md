@@ -17,6 +17,8 @@ Back to https://github.com/Kwangkee/rPPG
 >6) Steinhubl, S.R., Topol, E.J. Digital medicine, on its way to being just plain medicine. npj Digital Med 1, 20175 (2018). https://doi.org/10.1038/s41746-017-0005-1.
 
 "AI의료기기 허가 허들 너무 낮아…실사용 높이려면 임상시험 의약품처럼 해야", https://medigatenews.com/news/2015202758
+- Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538196/
+- 인공지능의 임상검증, 의료기기 허가, 의료보험 적용과 관련된 핵심 원리, https://jkma.org/journal/view.php?number=3172&viewtype=pubreader
 
 ```
 오늘 session 들어볼 만했습니다.
