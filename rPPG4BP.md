@@ -4,6 +4,10 @@ Back to https://github.com/Kwangkee/rPPG
 Kang Lee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md  
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research
 
+
+https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone
+
+
 ***
 
 ## Blood pressure measurement using only a smartphone
