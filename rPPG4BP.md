@@ -24,7 +24,11 @@ Effectiveness of consumer-grade contactless vital signs monitors: a systematic r
 ***
 
 ## Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technolog
-Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://pubmed.ncbi.nlm.nih.gov/32842022/
+Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://pubmed.ncbi.nlm.nih.gov/32842022/  
+>>[Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=oB2b5gcUBOEAAAAA:AVEF3Zp9KLx1Uj4QV0UQOwyc8w8VA1tToe4K9WnoqL1HOd035KfUnU5MSy1kdl4T6LmioklAq70QRPbnmTplswC4LA    
+
+#### Results 
+The mean difference between the Anura measurement and its paired auscultatory reference measurement across all 255 measurement pairs was –0.4±6.7mmHg for systolic blood pressure (SBP) and 1.2±7.0mmHg for diastolic blood pressure (DBP). Both are within the acceptable limit of 5±8mmHg and thus satisfy accuracy criterion 1. When mean differences are averaged for each subject, the mean across all 85 subjects 
 
 
 ## Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement
