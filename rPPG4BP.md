@@ -5,7 +5,7 @@ Kang Lee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research
 
 ## Papers 
-- [Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#non-contact-imaging-of-peripheral-hemodynamics-during-cognitive-and-psychological-stressors), https://www.nature.com/articles/s41746-022-00629-2
+- [Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone), https://www.nature.com/articles/s41746-022-00629-2
 - [Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#non-contact-imaging-of-peripheral-hemodynamics-during-cognitive-and-psychological-stressors), https://www.nature.com/articles/s41598-020-67647-6
 
 
