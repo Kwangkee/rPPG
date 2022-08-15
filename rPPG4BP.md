@@ -20,6 +20,7 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 
 ### etc
 Continuous Monitoring of Vital Signs Using Cameras: A Systematic Review, https://pubmed.ncbi.nlm.nih.gov/35684717/
+Effectiveness of consumer-grade contactless vital signs monitors: a systematic review and meta-analysis, https://pubmed.ncbi.nlm.nih.gov/34240262/
 
 ***
 
