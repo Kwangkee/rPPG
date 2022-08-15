@@ -18,7 +18,7 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 #### rPPG
 - [Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#non-contact-imaging-of-peripheral-hemodynamics-during-cognitive-and-psychological-stressors), https://www.nature.com/articles/s41598-020-67647-6
 
-### ETC
+### etc
 Continuous Monitoring of Vital Signs Using Cameras: A Systematic Review, https://pubmed.ncbi.nlm.nih.gov/35684717/
 
 ***
