@@ -15,8 +15,10 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 - [Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone), https://www.nature.com/articles/s41746-022-00629-2
 
 ## PPG
-The use of photoplethysmography for assessing hypertension, https://www.nature.com/articles/s41746-019-0136-7
+[The use of photoplethysmography for assessing hypertension](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#the-use-of-photoplethysmography-for-assessing-hypertension), https://www.nature.com/articles/s41746-019-0136-7
 >[한글 해설] https://jiryang.github.io/2020/06/04/PPG4BP/  
+
+Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks, https://ieeexplore.ieee.org/document/9175902
 
 ## rPPG
 - [Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#non-contact-imaging-of-peripheral-hemodynamics-during-cognitive-and-psychological-stressors), https://www.nature.com/articles/s41598-020-67647-6
