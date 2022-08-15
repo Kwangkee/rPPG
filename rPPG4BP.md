@@ -5,11 +5,19 @@ Kang Lee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research
 
 ## Papers 
+- [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/edit/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
 - [Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone), https://www.nature.com/articles/s41746-022-00629-2
 - [Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#non-contact-imaging-of-peripheral-hemodynamics-during-cognitive-and-psychological-stressors), https://www.nature.com/articles/s41598-020-67647-6
 
 
 ***
+
+## Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement
+Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement, https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
+
+![image](https://user-images.githubusercontent.com/109835677/184624740-2b4ab3f0-dabe-429f-9db1-65eb5f04eb1f.png)
+![image](https://user-images.githubusercontent.com/109835677/184624759-0511c78b-2566-4e81-b69b-1a9852479864.png)
+
 
 ## Blood pressure measurement using only a smartphone
 Blood pressure measurement using only a smartphone, https://www.nature.com/articles/s41746-022-00629-2
