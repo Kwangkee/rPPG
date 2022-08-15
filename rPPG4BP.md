@@ -14,6 +14,9 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 - [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
 - [Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone), https://www.nature.com/articles/s41746-022-00629-2
 
+## PPG
+The use of photoplethysmography for assessing hypertension, https://www.nature.com/articles/s41746-019-0136-7, https://jiryang.github.io/2020/06/04/PPG4BP/  
+
 ## rPPG
 - [Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#non-contact-imaging-of-peripheral-hemodynamics-during-cognitive-and-psychological-stressors), https://www.nature.com/articles/s41598-020-67647-6
 
@@ -22,7 +25,7 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 - The Measurement of VItal SIgns by Lifelight® Software in comparisON to the Standard of Care - Multi-site Development (VISION-MD), https://clinicaltrials.gov/ct2/show/NCT04763746, https://lifelight.ai/   
 
 - The VISION-Acute Study, https://clinicaltrials.gov/ct2/show/NCT04589923
-- Can Remote Photoplethysmography Be Used for Contactless Vital Sign Acquisition in a Healthcare Setting? A Prospective Comparative Study, https://clinicaltrials.gov/ct2/show/study/NCT04489407
+- Can Remote Photoplethysmography Be Used for Contactless Vital Sign Acquisition in a Healthcare Setting? A Prospective Comparative Study, https://clinicaltrials.gov/ct2/show/study/NCT04489407, Carebook Technologies Inc.
 
 ### etc
 Continuous Monitoring of Vital Signs Using Cameras: A Systematic Review, https://pubmed.ncbi.nlm.nih.gov/35684717/
