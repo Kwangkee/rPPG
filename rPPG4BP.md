@@ -23,6 +23,10 @@ Effectiveness of consumer-grade contactless vital signs monitors: a systematic r
 
 ***
 
+## Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technolog
+Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://pubmed.ncbi.nlm.nih.gov/32842022/
+
+
 ## Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement
 Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement, https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
 
