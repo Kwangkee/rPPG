@@ -26,7 +26,8 @@ International Conference on Healthcare Informatics (ICHI), Xi’an, China, 1–1
 
 
 #### Discussion  
-The purpose of this review is to assess the current state in the literature and guide future research dedicated to BP monitoring using only a smartphone. To that end, we conducted an extensive literature search to identify previous studies in the field of BP measurement with only a smartphone. Although numerous articles propose cuffless BP monitoring methods involving a smartphone, a majority incorporates additional devices, such as wristbands, chest bands, ECG sensors, or a second smartphone. **It is particularly striking that there have been such a small number of studies focusing on non-contact smartphone-based BP estimation. Most articles dedicated to noncontact BP estimation rely on an advanced camera setup.**
+The purpose of this review is to assess the current state in the literature and guide future research dedicated to BP monitoring using only a smartphone. To that end, we conducted an extensive literature search to identify previous studies in the field of BP measurement with only a smartphone. Although numerous articles propose cuffless BP monitoring methods involving a smartphone, a majority incorporates additional devices, such as wristbands, chest bands, ECG sensors, or a second smartphone. 
+>**It is particularly striking that there have been such a small number of studies focusing on non-contact smartphone-based BP estimation. Most articles dedicated to noncontact BP estimation rely on an advanced camera setup.**
 ```
 Binah 의 BP는?
 Nuralogix 의 BP는?
@@ -35,10 +36,10 @@ Nuralogix 의 BP는?
 Second, BP monitoring is usually conducted in clinical settings. However, according to O’Brien et al.67, BP monitoring in an ambulatory setting has several advantages over clinical BP monitoring. 
 >These include the possibility of acquiring a BP profile in the patient’s usual daily environment, a larger number of readings taken over a longer time period, and assessment of BP variability over 24 h. Furthermore, ambulatory BP monitoring is a stronger predictor of cardiovascular morbidity and mortality than clinical BP monitoring. 
 
-Measuring BP with a smartphone has great potential for alleviating the current limitations in BP monitoring. As a device with unparalleled ubiquity, it has the potential to serve as a cost-effective and unobtrusive BP monitor, paving the way for long-term ambulatory BP monitoring on a large scale. Two main facets of BP estimation with only a smartphone were identified in the literature: video-based non-contact methods where all the information is extracted from a facial video sequence and contact methods that require direct contact between the measurement site and the sensor. 
+Measuring BP with a smartphone has great potential for alleviating the current limitations in BP monitoring. **As a device with unparalleled ubiquity, it has the potential to serve as a cost-effective and unobtrusive BP monitor, paving the way for long-term ambulatory BP monitoring on a large scale.** Two main facets of BP estimation with only a smartphone were identified in the literature: video-based non-contact methods where all the information is extracted from a facial video sequence and contact methods that require direct contact between the measurement site and the sensor. 
 >As seen in our analysis, non-contact methods based on facial videos have the advantage of not being limited to a single measurement site, making them less susceptible to physiological irregularities. **The possibility of acquiring signals simultaneously from multiple ROIs with the same sensor, i.e., the camera, is another asset to the non-contact approach, as it enables the estimation of PTT without the need of an additional signal from another sensor.** Furthermore, acquiring the signal in a contactless manner avoids the deformation of the arterial wall caused by pressing the finger on the camera, which can lead to inaccurate measurements due to changes in the optical properties of the tissue induced by deformation, or due to a hampered blood circulation in the arteries and capillaries underneath the skin. 
 ```
-non-contact methods (facial, rPPG) 가 contact methods (finger, PPG) 보다 장점이라는 입장
+non-contact methods (facial, rPPG) 가 contact methods (finger, PPG) 보다 장점이라는 입장?
 ```
 
 The forgoing analysis of the existing literature has shown that BP monitoring with only a smartphone is not ready for clinical use yet. 
