@@ -8,8 +8,8 @@ Back to https://github.com/Kwangkee/rPPG
 Kang Lee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md  
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research  
 - Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://pubmed.ncbi.nlm.nih.gov/32842022/
->> [Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=oB2b5gcUBOEAAAAA:AVEF3Zp9KLx1Uj4QV0UQOwyc8w8VA1tToe4K9WnoqL1HOd035KfUnU5MSy1kdl4T6LmioklAq70QRPbnmTplswC4LA  
->> [pdf] https://journals.lww.com/bpmonitoring/_layouts/15/oaks.journals/downloadpdf.aspx?trckng_src_pg=ArticleViewer&an=00126097-202010000-00012
+>>[Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=oB2b5gcUBOEAAAAA:AVEF3Zp9KLx1Uj4QV0UQOwyc8w8VA1tToe4K9WnoqL1HOd035KfUnU5MSy1kdl4T6LmioklAq70QRPbnmTplswC4LA  
+>>[pdf] https://journals.lww.com/bpmonitoring/_layouts/15/oaks.journals/downloadpdf.aspx?trckng_src_pg=ArticleViewer&an=00126097-202010000-00012
 
 #### Contact vs. Non-contact methods  
 - [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
@@ -42,8 +42,29 @@ Several published methods possess a mean error ± standard deviation within the 
 > In a follow-up study of the Anura TOI-based smartphone app (81), lower BPs tended to be overpredicted, while higher BPs were underpredicted. This was attributed to more limited training data at the extreme ends of BP (81).
 >
 >81. Yang D, Xiao G, Wei J, Luo H. Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology. Blood Press Monit. (2020) 25:295–8. doi: 10.1097/MBP.0000000000000467
+>>- Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://pubmed.ncbi.nlm.nih.gov/32842022/  
+>>[Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=oB2b5gcUBOEAAAAA:AVEF3Zp9KLx1Uj4QV0UQOwyc8w8VA1tToe4K9WnoqL1HOd035KfUnU5MSy1kdl4T6LmioklAq70QRPbnmTplswC4LA   
+>>[pdf] https://journals.lww.com/bpmonitoring/_layouts/15/oaks.journals/downloadpdf.aspx?trckng_src_pg=ArticleViewer&an=00126097-202010000-00012
 
+Many studies do not meet criteria for validating BP devices. 
+>In addition to the AAMI criteria of MAE 5 ± 8 mmHg, several other criteria are listed (82), such as: at least 85 subjects; probability of tolerable errors <10 mmHg is at least 85 %, where a tolerable error is calculated as an average of three measurements against a reference BP; reference BP measurements acquired by two observers; and recording of number of absolute BP differences within 5, 10, and 15 mmHg. The protocol must cover a sufficient time frame to ensure that as the measurement device ages, accuracy is not reduced (83). 
+>
+>Many clinical validation protocols are tested on new models, without testing sustained accuracy over time, even though BP devices such as sphygmomanometers decline in accuracy over 18-months (84, 85). Over time, an individual may undergo physical changes in skin (i.e., aging) or changes in size, which may influence PPG extraction and BP estimation. Nevertheless, since non-contact methods should be applicable across camera types and imaging conditions, algorithms trained on data from a variety of subject types (age, sex, still vs. movement, range of skin tones and types) should be accurate for a sustainable time period.
 
+TOI possesses advantages to other techniques for clinical translation. 
+>The sample size of Luo et al. (36) is over 1,300; 155 features over 17 ROIs relating to waveform shape, population demographics and PTT predicted BP. This is advantageous over methods with small sample size and those that only measure PTT or analyze a single region. A disadvantage of limiting measurements to PTT is the phase shift used to measure PTT partially depends on skin variability/inhomogeneity, affecting PTT accuracy (63).
+>Luo et al. (36) acquired images under strict conditions: normotensive, and consistent lighting and camera angle. Future studies may include a wider range of pressures to determine whether TOI may predict hypertension, and a variety of camera angles and lighting conditions.
+
+Additional possibilities are outlined in (90). 
+>This includes (A) development of techniques and models robust to “real-life” conditions such shadowing or movement; (B) application of infrared light, which acquires videos in dark conditions and may be less sensitive to variable ambient lighting; (C) development of a large publicly available dataset, where different algorithms may be applied and compared; (D) extraction of additional features beyond PTT; (E) development of a model requiring fewer calibrations.
+
+Smartphone and video BP measurements will likely become more common. 
+>Compared to cuff-based techniques, they are cost-effective and convenient. Using a single video, BP may be combined with heart rate detection and stress assessment (66), blood oxygen saturation (23), and blood flow. This technology can be developed for improved digital health consultations to assess a number of health conditions. For example, measurement of the multiple parameters described above currently requires a visit to a medical health professional. This is time consuming, and may necessitate meetings with multiple health professionals.
+
+As methods and techniques for processing video images advances, it is foreseeable a video consultation over Zoom can relay to a doctor/nurse a patient's vitals (heart rate, BP, oxygen saturation, respiratory rate, etc.) and relate this information to stroke risk or susceptibility to cardiovascular disease. This information would be provided in real-time and reduce the need for manual measurements by a medical professional. 
+>In addition, through continuous and regular daily monitoring of their own vitals privately with a smartphone, patients can be alerted via algorithms whether further treatment is necessary. Ambulatory BP monitoring (BP monitoring at regular intervals during day, such as via a video camera) may detect abnormal variations in BP not detectable with a single BP measurement session at a doctor's office. Furthermore, ambulatory BP has been demonstrated to correlate more strongly with organ damage caused by hypertension than BP measurements conducted in a clinical setting (91). Data acquired via smartphone may be automatically directed to a health care team for further discussions and medical decisions. Such technology can be extended to blood sugar measurements for diabetes patients, and other information related to cholesterol, fats, and hemoglobin (92). 
+>
+>Video technology could be on the cusp of a future where a patient's home is transformed into a “smartphone-based doctor's office” where numerous cardiovascular or blood-related metrics are assessed that would previously require expertise and communication across multiple health divisions.
 
 
 ## Blood pressure measurement using only a smartphone
