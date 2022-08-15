@@ -58,7 +58,7 @@ The forgoing analysis of the existing literature has shown that BP monitoring wi
 >
 > Third, the participant sample must include a broad spectrum of subjects representative of a possible target population. This includes subjects with different hypertensive status, skin tone, age, gender, and comorbidities.
 
--Incorporating demographic information into BP estimation models can improve accuracy. Future articles should take advantage of such information that can easily be collected from the subjects. Especially in data-driven methods, prior research has shown that categorizing the dataset according to physiological and demographic information improves estimation accuracy.
+- Incorporating demographic information into BP estimation models can improve accuracy. Future articles should take advantage of such information that can easily be collected from the subjects. Especially in data-driven methods, prior research has shown that categorizing the dataset according to physiological and demographic information improves estimation accuracy.
 
 - Investigating pregnant populations is particularly important, as detecting hypertension at an early stage and relevant measures for it can slow down or prevent disease progression19. The same holds for pediatric populations.
 
