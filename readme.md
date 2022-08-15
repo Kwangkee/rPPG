@@ -14,7 +14,9 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md
 Binah, https://www.binah.ai/  
 FaceHeart, https://www.faceheart.com/index.php  
 VPGMedical, https://www.vpgmedical.com/  
-Google, https://blog.google/technology/health/take-pulse-health-and-wellness-your-phone
+Lifelight, https://lifelight.ai/  
+Google, https://blog.google/technology/health/take-pulse-health-and-wellness-your-phone  
+
 
 ***
 
