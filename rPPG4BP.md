@@ -19,12 +19,10 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 
 ## clinicaltrials.gov
 
-https://lifelight.ai/  
-- The Measurement of VItal SIgns by Lifelight® Software in comparisON to the Standard of Care - Multi-site Development (VISION-MD), https://clinicaltrials.gov/ct2/show/NCT04763746
-
+- The Measurement of VItal SIgns by Lifelight® Software in comparisON to the Standard of Care - Multi-site Development (VISION-MD), https://clinicaltrials.gov/ct2/show/NCT04763746, https://lifelight.ai/   
 
 - The VISION-Acute Study, https://clinicaltrials.gov/ct2/show/NCT04589923
-- https://clinicaltrials.gov/ct2/show/study/NCT04489407
+- Can Remote Photoplethysmography Be Used for Contactless Vital Sign Acquisition in a Healthcare Setting? A Prospective Comparative Study, https://clinicaltrials.gov/ct2/show/study/NCT04489407
 
 ### etc
 Continuous Monitoring of Vital Signs Using Cameras: A Systematic Review, https://pubmed.ncbi.nlm.nih.gov/35684717/
