@@ -17,6 +17,13 @@ Blood pressure measurement using only a smartphone, https://www.nature.com/artic
 Abstract
 >There is no consistency regarding the methods for blood pressure data collection and the reference blood pressure measurement and validation. Moreover, no established protocol is currently available for the validation of blood pressure measuring technologies using only a smartphone. 
 
+
+In our literature search, we found only two publications that are dedicated to contactless BP estimation with a smartphone32,33. However, the number of articles on rPPG-based BP estimation increases substantially if the constraint of using only a smartphone is removed. 
+>32. Patil, O. R., Wang, W., Gao, Y. & Jin, Z. A camera-based pulse transit time estimation approach towards non-intrusive blood pressure monitoring. In 2019 IEEE
+International Conference on Healthcare Informatics (ICHI), Xi’an, China, 1–10, https://doi.org/10.1109/ICHI.2019.8904498 (IEEE, 2019). https://ieeexplore.ieee.org/abstract/document/8904498
+>33. Luo, H. et al. Smartphone-based blood pressure measurement using transdermal optical imaging technology. Circulation: Cardiovasc. Imaging 12, e008857 (2019), https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.119.008857
+
+
 Discussion
 >The purpose of this review is to assess the current state in the literature and guide future research dedicated to BP monitoring using only a smartphone. To that end, we conducted an extensive literature search to identify previous studies in the field of BP measurement with only a smartphone. Although numerous articles propose cuffless BP monitoring methods involving a smartphone, a majority incorporates additional devices, such as wristbands, chest bands, ECG sensors, or a second smartphone. **It is particularly striking that there have been such a small number of studies focusing on non-contact smartphone-based BP estimation. Most articles dedicated to noncontact BP estimation rely on an advanced camera setup.**
 
