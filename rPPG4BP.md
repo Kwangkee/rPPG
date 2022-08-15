@@ -5,10 +5,18 @@ Kang Lee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research
 
 ## Papers 
+### Contact vs. Non-contact methods  
 - [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
 - [Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone), https://www.nature.com/articles/s41746-022-00629-2
+
+### rPPG
+- Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://pubmed.ncbi.nlm.nih.gov/32842022/
+
+
 - [Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#non-contact-imaging-of-peripheral-hemodynamics-during-cognitive-and-psychological-stressors), https://www.nature.com/articles/s41598-020-67647-6
 
+### ETC
+Continuous Monitoring of Vital Signs Using Cameras: A Systematic Review, https://pubmed.ncbi.nlm.nih.gov/35684717/
 
 ***
 
@@ -16,7 +24,22 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement, https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
 
 ![image](https://user-images.githubusercontent.com/109835677/184624740-2b4ab3f0-dabe-429f-9db1-65eb5f04eb1f.png)
-![image](https://user-images.githubusercontent.com/109835677/184624759-0511c78b-2566-4e81-b69b-1a9852479864.png)
+![image](https://user-images.githubusercontent.com/109835677/184625429-4d245fc1-fcb5-4224-b623-775f1f6b5dcc.png)
+
+#### Discussion, Perspectives, and Future Outlook
+
+Smartphone BP monitors are potentially applicable to ambulatory BP monitoring (examining BP continuously during the day). 
+>Measurements in a doctor's office are affected by “white coat” syndrome, where patients are recorded as possessing a higher BP recording when measured clinically. Since BP varies throughout the day, improved understanding of how and why these changes occur could assist physicians in prescribing medication. Smartphones may measure pressure easily, with no additional equipment required beyond the phone or case. In contrast, cuffs may be awkward and bulky, inducing arm soreness or rashes after multiple daily uses (78). Although a smartphone may not be used at night when the user is asleep, video cameras with infrared light can monitor vital signs using similar techniques as those developed for the smartphone (79).
+
+Non-contact methods possess other advantages. 
+>Non-contact methods acquire images of multiple regions simultaneously. This enables simultaneous analysis of waveform shape and PTT. Different regions of the body could be affected differently by the sympathetic and parasympathetic nervous system, which is not accounted for through analysis of a single region. 
+
+Several published methods possess a mean error ± standard deviation within the clinically acceptable 5 ± 8 mmHg. 
+> In a follow-up study of the Anura TOI-based smartphone app (81), lower BPs tended to be overpredicted, while higher BPs were underpredicted. This was attributed to more limited training data at the extreme ends of BP (81).
+>
+>81. Yang D, Xiao G, Wei J, Luo H. Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology. Blood Press Monit. (2020) 25:295–8. doi: 10.1097/MBP.0000000000000467
+
+
 
 
 ## Blood pressure measurement using only a smartphone
