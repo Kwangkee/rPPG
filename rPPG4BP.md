@@ -13,6 +13,7 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 
 ## Blood pressure measurement using only a smartphone
 Blood pressure measurement using only a smartphone, https://www.nature.com/articles/s41746-022-00629-2
+>Published in partnership with Seoul National University Bundang Hospital
 
 #### Abstract
 >There is no consistency regarding the methods for blood pressure data collection and the reference blood pressure measurement and validation. Moreover, no established protocol is currently available for the validation of blood pressure measuring technologies using only a smartphone. 
