@@ -9,7 +9,6 @@ Kang Lee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research  
 - Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://pubmed.ncbi.nlm.nih.gov/32842022/
 >>[Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=oB2b5gcUBOEAAAAA:AVEF3Zp9KLx1Uj4QV0UQOwyc8w8VA1tToe4K9WnoqL1HOd035KfUnU5MSy1kdl4T6LmioklAq70QRPbnmTplswC4LA  
->>[pdf] https://journals.lww.com/bpmonitoring/_layouts/15/oaks.journals/downloadpdf.aspx?trckng_src_pg=ArticleViewer&an=00126097-202010000-00012
 
 #### Contact vs. Non-contact methods  
 - [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
@@ -44,7 +43,6 @@ Several published methods possess a mean error ± standard deviation within the 
 >81. Yang D, Xiao G, Wei J, Luo H. Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology. Blood Press Monit. (2020) 25:295–8. doi: 10.1097/MBP.0000000000000467
 >>- Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://pubmed.ncbi.nlm.nih.gov/32842022/  
 >>[Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=oB2b5gcUBOEAAAAA:AVEF3Zp9KLx1Uj4QV0UQOwyc8w8VA1tToe4K9WnoqL1HOd035KfUnU5MSy1kdl4T6LmioklAq70QRPbnmTplswC4LA   
->>[pdf] https://journals.lww.com/bpmonitoring/_layouts/15/oaks.journals/downloadpdf.aspx?trckng_src_pg=ArticleViewer&an=00126097-202010000-00012
 
 Many studies do not meet criteria for validating BP devices. 
 >In addition to the AAMI criteria of MAE 5 ± 8 mmHg, several other criteria are listed (82), such as: at least 85 subjects; probability of tolerable errors <10 mmHg is at least 85 %, where a tolerable error is calculated as an average of three measurements against a reference BP; reference BP measurements acquired by two observers; and recording of number of absolute BP differences within 5, 10, and 15 mmHg. The protocol must cover a sufficient time frame to ensure that as the measurement device ages, accuracy is not reduced (83). 
