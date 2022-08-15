@@ -51,20 +51,20 @@ The forgoing analysis of the existing literature has shown that BP monitoring wi
 
 #### Based on our findings throughout this review, we recommend the following:
 
->- Future research must pay more attention to the underlying data that they use. 
+- Future research must pay more attention to the underlying data that they use. 
 >First, the participant sample sizes should be chosen in accordance with the guidelines provided in established validation protocols. For an AAMI/ESH/ISO validation study, at least 85 subjects are required. 
 >
->Second, the inclusion and exclusion criteria should be clearly communicated. 
+> Second, the inclusion and exclusion criteria should be clearly communicated. 
 >
->Third, the participant sample must include a broad spectrum of subjects representative of a possible target population. This includes subjects with different hypertensive status, skin tone, age, gender, and comorbidities.
+> Third, the participant sample must include a broad spectrum of subjects representative of a possible target population. This includes subjects with different hypertensive status, skin tone, age, gender, and comorbidities.
 
->-Incorporating demographic information into BP estimation models can improve accuracy. Future articles should take advantage of such information that can easily be collected from the subjects. Especially in data-driven methods, prior research has shown that categorizing the dataset according to physiological and demographic information improves estimation accuracy.
+-Incorporating demographic information into BP estimation models can improve accuracy. Future articles should take advantage of such information that can easily be collected from the subjects. Especially in data-driven methods, prior research has shown that categorizing the dataset according to physiological and demographic information improves estimation accuracy.
 
->- Investigating pregnant populations is particularly important, as detecting hypertension at an early stage and relevant measures for it can slow down or prevent disease progression19. The same holds for pediatric populations.
+- Investigating pregnant populations is particularly important, as detecting hypertension at an early stage and relevant measures for it can slow down or prevent disease progression19. The same holds for pediatric populations.
 
->- In order to be applicable in clinical use, future articles need to validate their methods in real-world environments beyond a fixed lab setup. Non-contact BP measurement methods need to be robust to environmental changes, such as alternating lighting conditions and motion artifacts. The same holds true for contact methods susceptible to noise, given that they rely on heart sound signals to estimate BP.
+- In order to be applicable in clinical use, future articles need to validate their methods in real-world environments beyond a fixed lab setup. Non-contact BP measurement methods need to be robust to environmental changes, such as alternating lighting conditions and motion artifacts. The same holds true for contact methods susceptible to noise, given that they rely on heart sound signals to estimate BP.
 
->- Future research must scrutinize the calibration of smartphones for BP monitoring. It is important to know how accuracy evolves over time, i.e., how frequently a smartphone needs to be calibrated and whether a calibration can be carried out by the patients themselves.
+- Future research must scrutinize the calibration of smartphones for BP monitoring. It is important to know how accuracy evolves over time, i.e., how frequently a smartphone needs to be calibrated and whether a calibration can be carried out by the patients themselves.
 
 Our literature search has shown a clear increase in research activity in the field of BP estimation with only a smartphone over the last decade. Methods of estimating BP through pulse wave analysis have especially gained momentum. Technical advancements in smartphone cameras and processors and an ever-growing demand for video-based communication technology have made an imminent breakthrough in non-contact BP monitoring likely. Weaving BP monitoring unobtrusively into our everyday lives as we face screens throughout the day has the potential for cost-effective early detection and large-scale monitoring of hypertension. Contact-based BP measurement, on the other hand, may prove useful in settings where screen time is considerably lower. 
 
