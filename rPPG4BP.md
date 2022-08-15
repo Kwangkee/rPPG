@@ -7,10 +7,10 @@ Back to https://github.com/Kwangkee/rPPG
 #### Kang Lee & Nuralogix  
 Kang Lee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md  
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research  
-- [Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#preliminary-assessment-of-video-based-blood-pressure-measurement-according-to-ansiaamiiso81060-2-2013-guideline-accuracy-criteria-anura-smartphone-app-with-transdermal-optimal-imaging-technolog), https://pubmed.ncbi.nlm.nih.gov/32842022/
->>[Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=oB2b5gcUBOEAAAAA:AVEF3Zp9KLx1Uj4QV0UQOwyc8w8VA1tToe4K9WnoqL1HOd035KfUnU5MSy1kdl4T6LmioklAq70QRPbnmTplswC4LA  
 
 - [2019, Blood Pressure] Smartphone-Based Blood Pressure Measurement Using Transdermal Optical Imaging Technology, https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.119.008857, Supplemental Material, https://www.ahajournals.org/doi/suppl/10.1161/CIRCIMAGING.119.008857 
+- [Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#preliminary-assessment-of-video-based-blood-pressure-measurement-according-to-ansiaamiiso81060-2-2013-guideline-accuracy-criteria-anura-smartphone-app-with-transdermal-optimal-imaging-technolog), https://pubmed.ncbi.nlm.nih.gov/32842022/
+>>[Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=oB2b5gcUBOEAAAAA:AVEF3Zp9KLx1Uj4QV0UQOwyc8w8VA1tToe4K9WnoqL1HOd035KfUnU5MSy1kdl4T6LmioklAq70QRPbnmTplswC4LA  
 
 #### Contact vs. Non-contact methods  
 - [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
