@@ -2,9 +2,7 @@ Back to https://github.com/Kwangkee/rPPG
 ***
 
 
-## Papers 
-
-#### Kang Lee & Nuralogix  
+## Kang Lee & Nuralogix  
 Kang Lee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md  
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogix-research  
 
@@ -12,12 +10,20 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 - [Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#preliminary-assessment-of-video-based-blood-pressure-measurement-according-to-ansiaamiiso81060-2-2013-guideline-accuracy-criteria-anura-smartphone-app-with-transdermal-optimal-imaging-technolog), https://pubmed.ncbi.nlm.nih.gov/32842022/
 >>[Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=oB2b5gcUBOEAAAAA:AVEF3Zp9KLx1Uj4QV0UQOwyc8w8VA1tToe4K9WnoqL1HOd035KfUnU5MSy1kdl4T6LmioklAq70QRPbnmTplswC4LA  
 
-#### Contact vs. Non-contact methods  
+## Contact vs. Non-contact methods  
 - [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
 - [Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone), https://www.nature.com/articles/s41746-022-00629-2
 
-#### rPPG
+## rPPG
 - [Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#non-contact-imaging-of-peripheral-hemodynamics-during-cognitive-and-psychological-stressors), https://www.nature.com/articles/s41598-020-67647-6
+
+## clinicaltrials.gov
+
+https://lifelight.ai/  
+- The Measurement of VItal SIgns by Lifelight® Software in comparisON to the Standard of Care - Multi-site Development (VISION-MD), https://clinicaltrials.gov/ct2/show/NCT04763746
+
+- The VISION-Acute Study, https://clinicaltrials.gov/ct2/show/NCT04589923
+
 
 ### etc
 Continuous Monitoring of Vital Signs Using Cameras: A Systematic Review, https://pubmed.ncbi.nlm.nih.gov/35684717/
