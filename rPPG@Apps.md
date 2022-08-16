@@ -2,8 +2,8 @@
 
 
 [App] Vital Sign Monitoring App
-Youtube : https://youtu.be/7eJ2SOdG7fs
-Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp
+Youtube : https://youtu.be/7eJ2SOdG7fs  
+Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp  
 
 
 https://www.binah.ai/sdk/
