@@ -5,6 +5,7 @@ Back to https://github.com/Kwangkee/rPPG
 ***
 ## Remote Clinical Trial
 
+[칼럼] DCT시대를 준비하자, http://www.dailypharm.com/Users/News/NewsView.html?ID=290804&REFERER=NP  
 
 
 ## DTx
