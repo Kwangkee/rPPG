@@ -6,6 +6,13 @@ Back to https://github.com/Kwangkee/rPPG
 ## Remote Clinical Trial
 
 [칼럼] DCT시대를 준비하자, http://www.dailypharm.com/Users/News/NewsView.html?ID=290804&REFERER=NP  
+>국내 다수의 회사들도 DCT 소프트웨어를 개발하고 있다. 국내에서도 규제만 풀리면 DCT 전성시대가 열릴 것이다.
+>
+>최근 DCT에 최적화되어 있는 DTx (Digital Therapeutics) 임상시험에 관한 규제 문제가 국내에서 대두되고 있다. 규제문제에 앞서 의약품에 대한 개념정리가 필요하다.
+>식약처의 '규제가 없어서 가상 의약품 임상시험을 할 수 없다'는 말은 있을 수 없다. 규제가 없이 임상시험이 진행되더라도 스폰서는 임상시험의 원칙을 지켰고 ICH 가이드라인에 준하여 진행하였음을 증명할 수 있으면 충분하다.  
+>미국 FDA의 Oncology Center of Excellence는 항암 DCT에 관련한 규제를 준비 중이다. 규제가 임상시험을 선행하는 것이 아니라 임상시험이 규제를 이끌어 간다는 것을 분명하게 보여주는 사례라고 할 수 있을 것이다.
+
+
 
 
 ## DTx
