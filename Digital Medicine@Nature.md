@@ -18,7 +18,10 @@ remote clinical trial: https://www.nature.com/search?q=remote%20clinical%20trial
 ## Heart4U
 Management of cardiovascular disease using an mHealth tool: a randomized clinical trial, https://www.nature.com/articles/s41746-021-00535-z
 
-스마트폰으로 심혈관질환 관리하는 ‘Heart4U’ 앱 개발, https://health.chosun.com/news/dailynews_view.jsp?mn_idx=449556
+Heart4U App: https://play.google.com/store/apps/details?id=com.snubh.heart4u&hl=ko
+
+심혈관질환, 스마트폰으로 똑똑하게 관리! 분당서울대병원, ‘Heart4U’ 앱 개발, http://digitalchosun.dizzo.com/site/data/html_dir/2022/01/19/2022011980065.html  
+스마트폰으로 심혈관질환 관리하는 ‘Heart4U’ 앱 개발, https://health.chosun.com/news/dailynews_view.jsp?mn_idx=449556  
 >‘Heart4U’는 심혈관질환 환자의 건강을 확인하고 스스로 관리할 수 있도록 도와주는 건강 서비스 어플리케이션으로, 앱에서 기록된 데이터를 연동해 자신의 건강을 더욱 체계적이고 편리하게 관리할 수 있도록 해준다.
 
 
