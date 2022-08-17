@@ -5,7 +5,7 @@ Back to https://github.com/Kwangkee/rPPG
 ***
 ## Remote Clinical Trial
 
-[칼럼] DCT시대를 준비하자, http://www.dailypharm.com/Users/News/NewsView.html?ID=290804&REFERER=NP  
+[칼럼] DCT시대를 준비하자, 이영작 엘에스케이글로벌파마서비스 대표, http://www.dailypharm.com/Users/News/NewsView.html?ID=290804&REFERER=NP  
 >국내 다수의 회사들도 DCT 소프트웨어를 개발하고 있다. 국내에서도 규제만 풀리면 DCT 전성시대가 열릴 것이다.
 >
 >최근 DCT에 최적화되어 있는 DTx (Digital Therapeutics) 임상시험에 관한 규제 문제가 국내에서 대두되고 있다. 규제문제에 앞서 의약품에 대한 개념정리가 필요하다.
