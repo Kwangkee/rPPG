@@ -24,8 +24,8 @@ https://www.bloodpressuredb.com/start.html
 - Get a blood pressure chart (incl. PDF) - for self control or to assist your doctor
 - free
 
-- 다 좋은데,  
->사용성 단절 (사용자가 별도 device로 BP 측정 후 수기 입력) 개선 필요 -> rPPG 적용하면!!! 
+#### 다 좋은데, 사용성 단절 개선 필요 
+> 사용자가 별도 device로 BP 측정 후 수기 입력 -> rPPG 적용하면!!! 
 
 ***
 Back to the [Top](#rPPG)  
