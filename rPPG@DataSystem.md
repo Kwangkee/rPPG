@@ -19,7 +19,7 @@ VitalSeer: The development of a contactless sensing technology based on a user-c
 
 ## BloodPressureDB.com
 https://www.bloodpressuredb.com/start.html
->사용성 단절 (사용자가 별도로 BP 측정 후 수기 입력) -> rPPG 적용하면!!!  
+>사용성 단절 (사용자가 별도 device로 BP 측정 후 수기 입력) 개선 필요 -> rPPG 적용하면!!! 
 
 ***
 Back to the [Top](#rPPG)  
