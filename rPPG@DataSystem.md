@@ -17,6 +17,10 @@ VitalSeer: The development of a contactless sensing technology based on a user-c
 
 >The studies on volunteers demonstrated the accuracy of VitalSeer’s heart rate model at a low MAE of 0.74 (bpm) and a RMSE of 1.2 bpm, **below the threshold of clinical grade contact-based sensors.**
 
+## BloodPressureDB.com
+https://www.bloodpressuredb.com/start.html
+>사용성 단절 (사용자가 별도로 BP 측정 후 수기 입력) -> rPPG 필요!!!  
+
 ***
 Back to the [Top](#rPPG)  
 Back to https://github.com/Kwangkee/rPPG
