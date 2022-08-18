@@ -19,6 +19,12 @@ VitalSeer: The development of a contactless sensing technology based on a user-c
 
 ## BloodPressureDB.com
 https://www.bloodpressuredb.com/start.html
+- Record your blood pressure simply and securely
+- Use your browser or the app for your smartphone
+- Get a blood pressure chart (incl. PDF) - for self control or to assist your doctor
+- free
+
+- 다 
 >사용성 단절 (사용자가 별도 device로 BP 측정 후 수기 입력) 개선 필요 -> rPPG 적용하면!!! 
 
 ***
