@@ -13,9 +13,11 @@ MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing, 
 ## VitalSeer
 VitalSeer: The development of a contactless sensing technology based on a user-centric data-driven clinical approach - NCBI, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9285145/  
 
->This paper presents the outcome of a multidisciplinary collaboration to ensure clinical usability of a remote contactless sensing technology, VitalSeer, and to help close gaps between emerging technologies and clinical practice. 
+This paper presents the outcome of a multidisciplinary collaboration to ensure clinical usability of a remote contactless sensing technology, VitalSeer, and to help close gaps between emerging technologies and clinical practice. 
+The studies on volunteers demonstrated the accuracy of VitalSeer’s heart rate model at a low MAE of 0.74 (bpm) and a RMSE of 1.2 bpm, **below the threshold of clinical grade contact-based sensors.**
 
->The studies on volunteers demonstrated the accuracy of VitalSeer’s heart rate model at a low MAE of 0.74 (bpm) and a RMSE of 1.2 bpm, **below the threshold of clinical grade contact-based sensors.**
+VitalSeer software aims to conduct remote monitoring of critical vital signs including HR, RR and SpO2. 
+
 
 ## BloodPressureDB.com
 https://www.bloodpressuredb.com/start.html
