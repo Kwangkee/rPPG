@@ -22,9 +22,9 @@ VitalSeer software aims to conduct remote monitoring of critical vital signs inc
 A Web Application for Experimenting and Validating Remote Measurement of Vital Signs, https://arxiv.org/abs/2208.09916
 
 In this paper, 
-(1) we present a web application framework with a back-end server as shown in Fig. 1 for remote web-based measurement of vitals signs namely HR, HRV, SpO2, RR, BP and stress in near real-time using a privacy preserving face video captured with a device camera. 
-(2) We validate the rPPG technology using our web application in the real world environment with different sources of light, varying camera resolutions, multiple browsers, several devices, and networks. 
-(3) Extensive research was done to explore existing rPPG methods [23] and improve the BVP signal by diminishing motion and light noises encountered in real world environment and giving the user appropriate messages to capture a good quality video. In this version of the application, scalability and load balancing was not addressed. Instead, we focused mainly on validating the accuracy of the framework in the real world.
+(1) we present a web application framework with a back-end server as shown in Fig. 1 for remote web-based measurement of vitals signs namely HR, HRV, SpO2, RR, BP and stress in near real-time using a privacy preserving face video captured with a device camera.  
+(2) We validate the rPPG technology using our web application in the real world environment with different sources of light, varying camera resolutions, multiple browsers, several devices, and networks.  
+(3) Extensive research was done to explore existing rPPG methods [23] and improve the BVP signal by diminishing motion and light noises encountered in real world environment and giving the user appropriate messages to capture a good quality video. In this version of the application, scalability and load balancing was not addressed. Instead, we focused mainly on validating the accuracy of the framework in the real world.  
 
 ## BloodPressureDB.com
 https://www.bloodpressuredb.com/start.html
