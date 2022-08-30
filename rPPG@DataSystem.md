@@ -30,7 +30,10 @@ In this paper,
 (2) We validate the rPPG technology using our web application in the real world environment with different sources of light, varying camera resolutions, multiple browsers, several devices, and networks.   
 (3) Extensive research was done to explore existing rPPG methods [23] and improve the BVP signal by diminishing motion and light noises encountered in real world environment and giving the user appropriate messages to capture a good quality video. In this version of the application, scalability and load balancing was not addressed. Instead, we focused mainly on validating the accuracy of the framework in the real world.  
 
- 
+3.1 Subsystem 1: Front-end Web Interface The front-end web interface shown in Fig. 2 can be accessed on the browser via a public web URL    
+  >https://vital-signs-bamlab.tk/    
+3.2 Subsystem 2: Back-end Data Processing The back-end hosts a Python 3.8 application on the server. The videos received from Subsystem 1 are saved on the server, processed and analyzed to extract the raw PPG signals and reduce noises due to changes in light intensity and motion to obtain a robust BVP signal for higher accuracy of vital signs. We used the state-of-the-art methods from Qiao et al [24] for vital sign estimation as explained briefly in Section 2.2 and improve the noise filtering techniques (selecting the best RoI, guiding user by UI messaging) while validating the framework in real life environment. 
+3.3 Subsystem 3: SQLite Database   
 
 ## BloodPressureDB.com
 https://www.bloodpressuredb.com/start.html
