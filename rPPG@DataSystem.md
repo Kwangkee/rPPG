@@ -20,9 +20,9 @@ VitalSeer software aims to conduct remote monitoring of critical vital signs inc
 
 ## A Web Application for Experimenting and Validating Remote Measurement of Vital Signs 
 A Web Application for Experimenting and Validating Remote Measurement of Vital Signs, https://arxiv.org/abs/2208.09916
-  >23. Qiao D., Zulkernin, F.M.R.R.R.J.N.: Measuring heart rate and heart rate variability with smartphone camera. 22nd IEEE International Conference on Mobile Data Management (MDM) (2021), https://sensights.ai/wp-content/uploads/2021/05/Measuring-Heart-Rate-and-Heart-Rate-Variability-with-Smartphone-Camera-1.pdf   
-  >24. Qiao D., Ayesha A., Z.F.M.R.J.N.: Revise: Remote vital signs measurement using smartphone video camera (2022), https://arxiv.org/abs/2206.08748  
-  >Heart Rate Monitoring Using PPG With Smartphone Camera, https://ieeexplore.ieee.org/abstract/document/9669735/
+  >- [23] Qiao D., Zulkernin, F.M.R.R.R.J.N.: Measuring heart rate and heart rate variability with smartphone camera. 22nd IEEE International Conference on Mobile Data Management (MDM) (2021), https://sensights.ai/wp-content/uploads/2021/05/Measuring-Heart-Rate-and-Heart-Rate-Variability-with-Smartphone-Camera-1.pdf   
+  >- [24] Qiao D., Ayesha A., Z.F.M.R.J.N.: Revise: Remote vital signs measurement using smartphone video camera (2022), https://arxiv.org/abs/2206.08748   
+  >- Heart Rate Monitoring Using PPG With Smartphone Camera, https://ieeexplore.ieee.org/abstract/document/9669735/
   
 #### We propose a web-based, publicly accessible ubiquitous framework for estimating six vitals namely, Heart Rate (HR), Heart Rate Variability (HRV), Respiration Rate (RR), Oxygen Saturation (SpO2), Blood Pressure (BP), and stress, which handles movement and illumination artifacts prevalent in real life. We validate the accuracy, robustness, usability and functionality of the rPPG models in estimating the vitals from face videos.
 
