@@ -21,16 +21,18 @@ VitalSeer software aims to conduct remote monitoring of critical vital signs inc
 ## Revise 
 Revise: Remote vital signs measurement using smartphone video camera (2022), https://arxiv.org/abs/2206.08748   
 - Canada Queen’s 대학이 개발, veyetals 가 상용화. The ReViSe framework has been commercialized with further enhancements (mobile application is called Veyetals, https://veyetals.com) by our industry partner.  
--	rPPG 알고리듬은 기존 우리 Non-DNN 버전과 유사. On-Device 인식 아니고, 서버로 보내서 처리. The front camera of a smartphone captures the face video
+-	rPPG 알고리듬은 기존 우리 Non-DNN 버전과 유사. https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=V4mg3H8AAAAJ&sortby=pubdate&citation_for_view=V4mg3H8AAAAJ:Y0pCki6q_DkC  
+-	On-Device 인식 아니고, 서버로 보내서 처리. The front camera of a smartphone captures the face video
 which is streamed to a back-end cloud platform
 
 #### Dataset
 B. Benchmark Datasets
-- TokyoTech rPPG Dataset:
-- PURE Dataset:
-- PPG-BP Dataset: 
-C. Self-created Video-HR Dataset  
-D. Self-created Video-BP Dataset  
+  - TokyoTech rPPG Dataset:
+  - PURE Dataset:  
+  - PPG-BP Dataset:  
+
+C. Self-created Video-HR Dataset    
+D. Self-created Video-BP Dataset    
 
 #### Veyetals App
 -	https://veyetals.com/pricing-and-features/ 무료 버전 & 유료 버전
