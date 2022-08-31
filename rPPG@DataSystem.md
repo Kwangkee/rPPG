@@ -49,6 +49,8 @@ A Web Application for Experimenting and Validating Remote Measurement of Vital S
   
 #### We propose a web-based, publicly accessible ubiquitous framework for estimating six vitals namely, Heart Rate (HR), Heart Rate Variability (HRV), Respiration Rate (RR), Oxygen Saturation (SpO2), Blood Pressure (BP), and stress, which handles movement and illumination artifacts prevalent in real life. We validate the accuracy, robustness, usability and functionality of the rPPG models in estimating the vitals from face videos.
 
+![image](https://user-images.githubusercontent.com/109835677/187622831-d8aec93e-5e8a-4d40-a397-16a1a6dc1432.png)
+
 In this paper,   
 (1) we present a web application framework with a back-end server as shown in Fig. 1 for remote web-based measurement of vitals signs namely HR, HRV, SpO2, RR, BP and stress in near real-time using a privacy preserving face video captured with a device camera.   
 (2) We validate the rPPG technology using our web application in the real world environment with different sources of light, varying camera resolutions, multiple browsers, several devices, and networks.   
