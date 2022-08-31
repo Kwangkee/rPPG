@@ -25,6 +25,8 @@ Revise: Remote vital signs measurement using smartphone video camera (2022), htt
 -	On-Device 인식 아니고, 서버서 처리. The front camera of a smartphone captures the face video which is streamed to a back-end cloud platform.    
 - Deep learning-based vs Conventional: However, these mentors are data intensive and may have significant influence on prediction results depending on the quantity and quality of the training data. Therefore, the conventional signal processing methods for noise reduction and BVP signal generation were explored further in this work.   
 
+![image](https://user-images.githubusercontent.com/109835677/187622301-bd5540ef-1abd-4568-a3e7-b352da0e2380.png)
+
 #### Dataset
 B. Benchmark Datasets
   - TokyoTech rPPG Dataset:
