@@ -24,6 +24,14 @@ Revise: Remote vital signs measurement using smartphone video camera (2022), htt
 -	rPPG 알고리듬은 기존 우리 Non-DNN 버전과 유사. On-Device 인식 아니고, 서버로 보내서 처리. The front camera of a smartphone captures the face video
 which is streamed to a back-end cloud platform
 
+#### Dataset
+B. Benchmark Datasets
+- TokyoTech rPPG Dataset:
+- PURE Dataset:
+- PPG-BP Dataset: 
+C. Self-created Video-HR Dataset  
+D. Self-created Video-BP Dataset  
+
 #### Veyetals App
 -	https://veyetals.com/pricing-and-features/ 무료 버전 & 유료 버전
 -	https://www.youtube.com/watch?v=peot6UUbEU0 정확도 90% 이상이고, 전문가 (의사?) 들도 좋다고 한다는데 ….
