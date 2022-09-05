@@ -13,6 +13,7 @@ However, individual smart health gadgets such as smartwatches and activity track
 The current healthcare model that relies on home visits by nurses, doctors, and therapists is gradually being replaced by new services. [Trapollo](https://www.trapollo.com/), a company that Cox Communications has acquired, has been developing different solutions for remote health care.
 
 - Trapollo, https://www.trapollo.com/
+- Remote Patient Monitoring, https://www.trapollo.com/articles/medical-rpm/
 
 Researchers from the well-known Scripps Translational Science Institute in La Jolla, California, report on a 2017 study that showed that telemonitoring of oxygen saturation, blood pressure, body temperature, and respiratory biometrics can significantly reduce re-admissions of people with chronic obstructive pulmonary disease (COPD). On the other hand, telemonitoring of frail people with multiple conditions might be more challenging and will likely require proper supporting systems and protocols. So far, technology aimed at specific chronic conditions received better feedback and has more scientific support.5
 
