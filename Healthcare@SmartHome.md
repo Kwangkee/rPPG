@@ -27,3 +27,11 @@ For instance, home technology has proven useful in the care of people with demen
 #### Can Smart Home Devices Replace Healthcare Services?
 Connected smart homes might not yet be able to completely replace existing healthcare services, but they can add value to the healthcare continuum of care, improve the quality of care, and reduce the mounting pressures on a healthcare system that in many ways is overcapacity.
 
+
+****
+
+Why open-source AI platforms are the future of patient health tracking in clinical trials, https://aicure.com/blog/opinion/why-open-source-ai-platforms-are-the-future-of-patient-health-tracking-in-clinical-trials/  
+Why we made our digital biomarker code open source, https://aicure.com/blog/opinion/why-we-made-our-digital-biomarker-code-open-source/   
+
+https://github.com/AiCure/open_dbm   
+
