@@ -27,11 +27,43 @@ For instance, home technology has proven useful in the care of people with demen
 #### Can Smart Home Devices Replace Healthcare Services?
 Connected smart homes might not yet be able to completely replace existing healthcare services, but they can add value to the healthcare continuum of care, improve the quality of care, and reduce the mounting pressures on a healthcare system that in many ways is overcapacity.
 
+***
+
+https://www.linkedin.com/pulse/health-home-new-care-delivery-models-here-stay-elizabeth-parks/   
+https://www.linkedin.com/pulse/health-home-role-tech-modern-living-elizabeth-parks/   
+But, again, smartwatches are not the only devices consumers are interested in acquiring for personal or household use. Intentions to purchase connected weight scales, blood pressure cuffs, and thermometers have doubled year-over-year. Consumers want better insight into their health, a better ability to care for their family, and they are looking for solutions to help them do so at home.
 
 ****
 
-Why open-source AI platforms are the future of patient health tracking in clinical trials, https://aicure.com/blog/opinion/why-open-source-ai-platforms-are-the-future-of-patient-health-tracking-in-clinical-trials/  
-Why we made our digital biomarker code open source, https://aicure.com/blog/opinion/why-we-made-our-digital-biomarker-code-open-source/   
+https://aicure.com/company/   
+AiCure delivers patient insights to improve clinical trials. As the only company to provide a holistic view of the patient, AiCure directly engages patients via smartphones to deliver meaningful, high-quality data around patient behavior to sponsors and sites.   
 
-https://github.com/AiCure/open_dbm   
+These insights from AiCure’s proprietary AI platform empower sites to better support patients and sponsors to implement the right trial for the right patient, helping drive greater understanding of drug efficacy, accelerate timelines, and reduce trial costs and variability.   
+
+
+https://aicure.com/  
+Open-Source AI Platforms: Driving Success through Diversity, https://aicure.com/blog/opinion/open-source-ai-platforms-driving-success-through-diversity/  
+Why open-source AI platforms are the future of patient health tracking in clinical trials, https://aicure.com/blog/opinion/why-open-source-ai-platforms-are-the-future-of-patient-health-tracking-in-clinical-trials/  
+Why we made our digital biomarker code open source, https://aicure.com/blog/opinion/why-we-made-our-digital-biomarker-code-open-source/    
+AICURE MAKES CODE OPEN SOURCE TO ADVANCE DIGITAL BIOMARKER DEVELOPMENT, https://aicure.com/opendbm/
+https://github.com/AiCure/open_dbm    
+
+- Validation of Visual and Auditory Digital Markers of Suicidality in Acutely Suicidal Psychiatric Inpatients: Proof-of-Concept Study, https://www.jmir.org/2021/6/e25199   
+- Remote digital measurement of visual and auditory markers of Major Depressive Disorder severity and treatment response, https://www.medrxiv.org/content/10.1101/2020.08.24.20178004v1
+- Computer Vision-Based Assessment of Motor Functioning in Schizophrenia: Use of Smartphones for Remote Measurement of Schizophrenia Symptomatology, https://pubmed.ncbi.nlm.nih.gov/33615120/
+- P.267 Using smartphone-recorded facial and verbal features to predict clinical functioning in individuals with neuropsychiatric disorders, https://www.semanticscholar.org/paper/P.267-Using-smartphone-recorded-facial-and-verbal-Abbas-Yadav/93d2b0742b562585a61eef10d73f114b9be904f2
+- Facial and vocal markers of schizophrenia measured using remote smartphone assessments, https://www.researchgate.net/publication/347377162_Facial_and_vocal_markers_of_schizophrenia_measured_using_remote_smartphone_assessments
+
+
+
+
+Vijay Yadav, https://scholar.google.com/citations?hl=en&user=peiNzcIAAAAJ&view_op=list_works&sortby=pubdate
+
+Facial and Vocal Markers of Schizophrenia Measured Using Remote Smartphone Assessments: Observational Study, https://pubmed.ncbi.nlm.nih.gov/35060906/
+
+
+https://www.dataart.com/blog/designing-for-healthcare-five-tips-for-ux-development   
+https://www.dataart.com/industries/healthcare-and-life-sciences   
+https://www.dataart.com/industries/healthcare-and-life-sciences/clinical-trial-software   
+https://telemedicine.dataart.com/?utm_campaign=telemed&utm_medium=banner&utm_source=website   
 
