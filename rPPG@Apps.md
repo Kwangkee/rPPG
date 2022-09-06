@@ -6,19 +6,23 @@
 - Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp  
 - [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582
 
-|x|x|x|
+||Web Site|More Info|
 |--|--|--|
 |Binah|https://www.binah.ai/sdk/|-|
 |Nuralogix/Anura|https://www.nuralogix.ai/anura/|https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Nuralogix.md#nuralogix-anura|
-|mxlabs|https://mxlabs.ai/|x|
+|MX Labs|https://mxlabs.ai/|x|
+|Veyetals|https://veyetals.com/|x|
 
 
 
+## MX Labs
+MX Labs, https://mxlabs.ai
 
 
 
-https://www.binah.ai/sdk
-https://www.nuralogix.ai/anura/  
+## Veyetals
+Veyetals, https://veyetals.com/
+
 
 https://mxlabs.ai/  
 https://veyetals.com/  
