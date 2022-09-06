@@ -18,7 +18,7 @@ MX Labs, https://mxlabs.ai
 ## Veyetals
 Veyetals, https://veyetals.com/
 
-- https://veyetals.com/pricing-and-features/ 무료버전 동작. 유료버전은 시원찮음. 
+- https://veyetals.com/pricing-and-features/ 무료버전 동작. 유료버전은 (아직) 시원찮음. 
   >-	https://www.youtube.com/watch?v=peot6UUbEU0 정확도 90% 이상이고, 전문가/의사(?) 들도 좋다고 한다는데 ….
 
 - Revise: Remote vital signs measurement using smartphone video camera (2022), https://arxiv.org/abs/2206.08748 
