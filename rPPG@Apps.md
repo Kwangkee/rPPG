@@ -7,6 +7,7 @@ Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.v
 
 
 |x|x|x|  
+|---|---|--|
 |Binah|https://www.binah.ai/sdk/|-|
 |Nuralogix/Anura|https://www.nuralogix.ai/anura/|https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Nuralogix.md#nuralogix-anura|
 |mxlabs|https://mxlabs.ai/|x|
