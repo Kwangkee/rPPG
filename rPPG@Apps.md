@@ -1,11 +1,5 @@
 
 
-
-[App] Vital Sign Monitoring App
-- Youtube : https://youtu.be/7eJ2SOdG7fs  
-- Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp  
-- [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582
-
 ||Web Site|More Info|
 |--|--|--|
 |Binah|https://www.binah.ai/sdk/|-|
@@ -34,6 +28,11 @@ Veyetals, https://veyetals.com/
   - https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md#a-web-application-for-experimenting-and-validating-remote-measurement-of-vital-signs 는 위의 학교 버전인 듯싶은데, Server-side (Backend) 포함해서 참고해 보면 좋겠습니다.
   -	3.1 Subsystem 1: Front-end Web Interface The front-end web interface shown in Fig. 2 can be accessed on the browser via a public web URL, https://vital-signs-bamlab.tk/ -> 요게 저는 동작 안 하는데???
 
+## Vital Sign Monitoring App
+[App] Vital Sign Monitoring App
+- Youtube : https://youtu.be/7eJ2SOdG7fs  
+- Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp  
+- [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582
 
 ***
 https://sensights.ai/  
