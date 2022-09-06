@@ -14,12 +14,12 @@ Back to https://github.com/Kwangkee/rPPG
 - Android App : https://play.google.com/store/apps/details?id=ai.nuralogix.nura  
 - iPhone App : https://apps.apple.com/kr/app/anura/id1358813934  
 
->[2020/Oct, AAMI guideline] Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2:2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://journals.lww.com/bpmonitoring/Abstract/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx 
->>Objective 
->>>A new smartphone app called Anura can measure blood pressure (BP) any time and any place without cuffs or special equipment from video of the face. This study assessed its accuracy in close conformity with the American National Standards Institute/Association for the Advancement of Medical Instrumentation/International Organization for Standardization (ANSI/AAMI/ISO) 81060-2:2013 standard for BP measurement devices.    
+- [2020/Oct, AAMI guideline] Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2:2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://journals.lww.com/bpmonitoring/Abstract/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx 
+>Objective 
+>>A new smartphone app called Anura can measure blood pressure (BP) any time and any place without cuffs or special equipment from video of the face. This study assessed its accuracy in close conformity with the American National Standards Institute/Association for the Advancement of Medical Instrumentation/International Organization for Standardization (ANSI/AAMI/ISO) 81060-2:2013 standard for BP measurement devices.    
 
->>Conclusions 
->>>Anura meets ANSI/AAMI/ISO 81060-2:2013 standard with respect to BP measurement accuracy. As the ANSI/AAMI/ISO 81060-2:2013 standard has not been developed for cuffless devices, further research assessing additional accuracy issues specific to such devices is needed.
+>Conclusions 
+>>Anura meets ANSI/AAMI/ISO 81060-2:2013 standard with respect to BP measurement accuracy. As the ANSI/AAMI/ISO 81060-2:2013 standard has not been developed for cuffless devices, further research assessing additional accuracy issues specific to such devices is needed.
  
  
 ## 특허
