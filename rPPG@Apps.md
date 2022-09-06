@@ -18,6 +18,10 @@
 ## MX Labs
 MX Labs, https://mxlabs.ai
 
+- Canada Queen’s 대학이 개발, veyetals 가 상용화  
+- Revise: Remote vital signs measurement using smartphone video camera (2022), https://arxiv.org/abs/2206.08748 
+  -	The ReViSe framework has been commercialized with further enhancements (mobile application is called Veyetals, https://veyetals.com 1) by our industry partner.
+  -	rPPG 알고리듬은 기존 우리 Non-DNN 버전과 유사해 보임. On-Device 아니고 video를 서버로 보내서 처리
 
 
 ## Veyetals
