@@ -14,6 +14,10 @@
 ## MX Labs
 MX Labs, https://mxlabs.ai
 
+- https://mxlabs.ai/en/sdk   
+- https://mxlabs.ai/en/apps  
+  >- 정확도는 모르겠으나, UI 적으로는 신경 많이 썼고, 안정적으로 동작
+  >- 심장 모니터: 혈압 일기, https://play.google.com/store/apps/details?id=ai.mxlabs.heartmonitor
 
 ## Veyetals
 Veyetals, https://veyetals.com/
