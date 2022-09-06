@@ -15,7 +15,7 @@
 MX Labs, https://mxlabs.ai
 
 - Shen.AI SDK, https://mxlabs.ai/en/sdk   
-- Heart Monitor, https://mxlabs.ai/en/apps  
+- Heart Monitor, https://mxlabs.ai/en/apps, YouTube: https://www.youtube.com/watch?v=nLfenp5qzho
   >- 정확도는 모르겠으나, UI는 신경 많이 썼고, 안정적으로 동작
   >- 심장 모니터: 혈압 일기, https://play.google.com/store/apps/details?id=ai.mxlabs.heartmonitor -> 한국에서 올린 듯?
   >- 기능: ADD BP READING : BP 수기 입력  
