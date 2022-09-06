@@ -9,6 +9,7 @@ Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.v
 https://www.binah.ai/sdk/  
 https://www.nuralogix.ai/anura/  
 
+https://mxlabs.ai/
 https://veyetals.com/  
 https://sensights.ai/  
 https://www.safe2work.ai/  
