@@ -7,7 +7,7 @@
 |MX Labs|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
 |Veyetals|https://veyetals.com/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.mdveyetals|
 |--|--|--|
-|--|--|--|
+|TVS App|-|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
 
 
 
@@ -24,7 +24,8 @@ Veyetals, https://veyetals.com/
 - Revise: Remote vital signs measurement using smartphone video camera (2022), https://arxiv.org/abs/2206.08748 
   -	Canada Queen’s 대학이 개발, veyetals 가 상용화  
   -	The ReViSe framework has been commercialized with further enhancements (mobile application is called Veyetals, https://veyetals.com 1) by our industry partner. 
-  -	rPPG 알고리듬은 기존 우리 Non-DNN 버전과 유사해 보임. On-Device 아니고 video를 서버로 보내서 처리
+  -	rPPG 알고리듬은 [기존 우리 Non-DNN 버전](https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app)과 유사. 
+  -	On-Device 아니고 video를 서버로 보내서 처리
 
 - A Web Application for Experimenting and Validating Remote Measurement of Vital Signs, https://arxiv.org/abs/2208.09916 
   - https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md#a-web-application-for-experimenting-and-validating-remote-measurement-of-vital-signs 는 위의 학교 버전인 듯싶은데, Server-side (Backend) 포함해서 참고해 보면 좋겠습니다.
