@@ -9,7 +9,7 @@
 |x|x|x|
 |--|--|--|
 |Binah|https://www.binah.ai/sdk/|-|
-|[Nuralogix/Anura](https://www.nuralogix.ai/anura/|https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Nuralogix.md#nuralogix-anura)|x|
+|[Nuralogix/Anura](https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Nuralogix.md#nuralogix-anura))|https://www.nuralogix.ai/anura/|x|
 |mxlabs|https://mxlabs.ai/|x|
 
 
