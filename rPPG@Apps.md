@@ -4,7 +4,7 @@
 |--|--|--|
 |Binah|https://www.binah.ai/sdk/|-|
 |Nuralogix/Anura|https://www.nuralogix.ai/anura/|https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Nuralogix.md#nuralogix-anura|
-|MX Labs|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
+|MX Labs/Heart Monitor|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
 |Veyetals|https://veyetals.com/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#veyetals|
 |--|--|--|
 |TVS App|-|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
@@ -14,8 +14,8 @@
 ## MX Labs
 MX Labs, https://mxlabs.ai
 
-- https://mxlabs.ai/en/sdk   
-- https://mxlabs.ai/en/apps  
+- Shen.AI SDK, https://mxlabs.ai/en/sdk   
+- Heart Monitor, https://mxlabs.ai/en/apps  
   >- 정확도는 모르겠으나, UI 적으로는 신경 많이 썼고, 안정적으로 동작
   >- 심장 모니터: 혈압 일기, https://play.google.com/store/apps/details?id=ai.mxlabs.heartmonitor -> 한국에서 올린 듯?
   >- 기능: ADD BP READING : BP 수기 입력  
