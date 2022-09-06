@@ -33,8 +33,7 @@ Veyetals, https://veyetals.com/
   -	3.1 Subsystem 1: Front-end Web Interface The front-end web interface shown in Fig. 2 can be accessed on the browser via a public web URL, https://vital-signs-bamlab.tk/ -> 요게 저는 동작 안 하는데???
 
 
-https://mxlabs.ai/  
-https://veyetals.com/  
+***
 https://sensights.ai/  
 https://www.safe2work.ai/  
 
