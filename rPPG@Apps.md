@@ -7,8 +7,8 @@
 |MX Labs/Heart Monitor|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
 |Veyetals|https://veyetals.com/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#veyetals|
 |--|--|--|
-|TVS App|-|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
-|감성텍/Heart Monitor : 심박수, 스트레스 모니터링|http://www.gamsungtech.com/products.html|-|
+|TVS/VitalApp|-|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
+|감성텍/HeartMonitor|http://www.gamsungtech.com/products.html|-|
 
 
 
