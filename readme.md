@@ -20,6 +20,7 @@ Binah, https://www.binah.ai/
 VPGMedical, https://www.vpgmedical.com/  
 - Jean-Philippe Couderc, https://scholar.google.co.kr/citations?hl=ko&user=kwewtJQAAAAJ&view_op=list_works&sortby=pubdate
 - Gill R Tsouri, https://scholar.google.co.kr/citations?hl=ko&user=huOIiDEAAAAJ&view_op=list_works&sortby=pubdate  
+- Home-based Videoplethysmographic Detection of Atrial Fibrillation, https://people.rit.edu/grteee/index_files/CamaFibProject.htm   
 - An Assessment of Facial Video-based Detection of Atrial Fibrillation across Human Complexion, https://www.sciencedirect.com/science/article/pii/S2666693622001529
 - Monitoring Pulse Rate in the Background using Front Facing Cameras of Mobile Devices, https://ieeexplore.ieee.org/abstract/document/9851853  
   > 
