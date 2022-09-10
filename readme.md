@@ -9,6 +9,9 @@ rPPG@Competition, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Competition.md
 rPPG@DataSystem, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md  
 rPPG@PublicData, https://github.com/Kwangkee/rPPG/blob/main/rPPG@PublicData.md  
 
+## Apps
+https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Apps.md
+
 ## Vendors
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md  
 Binah, https://www.binah.ai/  
