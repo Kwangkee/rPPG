@@ -16,7 +16,6 @@ FaceHeart, https://www.faceheart.com/index.php
 VPGMedical, https://www.vpgmedical.com/  
 Lifelight, https://lifelight.ai/    
 Veyetals, https://veyetals.com/  
->ReViSe: Remote Vital Signs Measurement Using Smartphone Camera, https://arxiv.org/abs/2206.08748
 MX Labs, https://mxlabs.ai   
 
 Google, https://blog.google/technology/health/take-pulse-health-and-wellness-your-phone   
