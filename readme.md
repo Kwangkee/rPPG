@@ -12,8 +12,16 @@ rPPG@PublicData, https://github.com/Kwangkee/rPPG/blob/main/rPPG@PublicData.md
 ## Vendors
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md  
 Binah, https://www.binah.ai/  
-FaceHeart, https://www.faceheart.com/index.php  
+
+#### VPGMedical
 VPGMedical, https://www.vpgmedical.com/  
+- Jean-Philippe Couderc, https://scholar.google.co.kr/citations?hl=ko&user=kwewtJQAAAAJ&view_op=list_works&sortby=pubdate
+- An Assessment of Facial Video-based Detection of Atrial Fibrillation across Human Complexion, https://www.sciencedirect.com/science/article/pii/S2666693622001529
+- Monitoring Pulse Rate in the Background using Front Facing Cameras of Mobile Devices, https://ieeexplore.ieee.org/abstract/document/9851853  
+  > 
+
+
+FaceHeart, https://www.faceheart.com/index.php  
 Lifelight, https://lifelight.ai/    
 Veyetals, https://veyetals.com/  
 MX Labs, https://mxlabs.ai   
