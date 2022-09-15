@@ -3,7 +3,7 @@ Back to https://github.com/Kwangkee/rPPG
 
 ## Lists
 - [Digital Biomarkers: Healthcare Trends](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#digital-biomarkers-healthcare-trends)
-- [Digital Biomarkers: Korea Bio Economy Brief](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#korea-bio-economy-brief)
+- [[한국바이오협회] 신약개발에서 디지털 바이오마커의 기회](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#korea-bio-economy-brief)
 
 
 [Challenges]
