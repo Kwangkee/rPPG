@@ -5,6 +5,10 @@ Back to https://github.com/Kwangkee/rPPG
 - [Digital Biomarkers: Healthcare Trends](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#digital-biomarkers-healthcare-trends)
 - [Digital Biomarkers: Korea Bio Economy Brief](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#korea-bio-economy-brief)
 
+
+[Challenges]
+- [As Is] 디지털 바이오마커는 웨어러블 기기를 통해 수집되어 왔으나, [To Be] rPPG 등 비접촉 방식 기술을 통해 사용성 개선 기대
+
 [TBR]
 - The Rise of Digital Biomarkers - Drivers and Challenges to Market Growth, https://www.healthxl.com/blog/the-rise-of-digital-biomarkers-drivers-and-challenges-to-market-growth
 - Can AI remedy the growing pains of digital biomarker development?, https://www.clinicaltrialsarena.com/analysis/ai-and-digital-biomarker-development/
