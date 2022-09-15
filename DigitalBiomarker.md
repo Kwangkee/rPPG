@@ -7,7 +7,8 @@ Back to https://github.com/Kwangkee/rPPG
 
 
 [Challenges]
-- [As Is] 디지털 바이오마커는 웨어러블 기기를 통해 수집되어 왔으나, [To Be] rPPG 등 비접촉 방식 기술을 통해 사용성 개선 필요
+- [As Is] 디지털 바이오마커는 웨어러블 기기를 통해 수집되어 왔으나, [To Be] 비접촉 rPPG 기술을 통해 사용성 획기적 개선
+
 
 [TBR]
 - The Rise of Digital Biomarkers - Drivers and Challenges to Market Growth, https://www.healthxl.com/blog/the-rise-of-digital-biomarkers-drivers-and-challenges-to-market-growth
