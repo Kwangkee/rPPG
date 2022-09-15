@@ -1,7 +1,7 @@
 Back to https://github.com/Kwangkee/rPPG
 ***
 
-## BioKorea
+## KoreaBio
 [한국바이오협회] 신약개발에서 디지털 바이오마커의 기회, https://www.koreabio.org/board/download.php?board=Y&bo_table=brief&file_name=b_file_166250674940nxl3hizf.pdf&o_file_name=%EB%B8%8C%EB%A6%AC%ED%94%84+162%ED%98%B8_%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C%EC%97%90%EC%84%9C+%EB%94%94%EC%A7%80%ED%84%B8%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4%EC%9D%98+%EA%B8%B0%ED%9A%8C_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf
 
 - 신약개발 핵심으로 떠오른 '바이오마커' 활용하려면?, http://www.newsthevoice.com/news/articleView.html?idxno=28931
