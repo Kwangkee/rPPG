@@ -9,19 +9,16 @@ Back to https://github.com/Kwangkee/rPPG
 
 ## Korea Bio Economy Brief
 - [한국바이오협회] 신약개발에서 디지털 바이오마커의 기회, https://www.koreabio.org/board/download.php?board=Y&bo_table=brief&file_name=b_file_166250674940nxl3hizf.pdf&o_file_name=%EB%B8%8C%EB%A6%AC%ED%94%84+162%ED%98%B8_%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C%EC%97%90%EC%84%9C+%EB%94%94%EC%A7%80%ED%84%B8%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4%EC%9D%98+%EA%B8%B0%ED%9A%8C_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf
-  >- 디지털 바이오마커는 분산형 임상시험(DCT)를 가능하게 하여 원격으로 환자의 모니터링과 치료 제공
-  >- 최근 분산형 임상시험(DCT)와 연계하여 신약개발사에게 헬스케어 데이터 활용 및 신약개발 성공에 있어 실사용 증거(Real world evidence, RWE)개념이 큰 화두로 떠오르고 있다.
+  >디지털 바이오마커는 분산형 임상시험(DCT)를 가능하게 하여 원격으로 환자의 모니터링과 치료 제공  
   >
-  >- [References] 생명공학정책연구센터, 글로벌 디지털 바이오마커 시장 현황 및 전망, 2020. 07, https://www.bioin.or.kr/board.do?num=299025&cmd=view&bid=watch
-  >- [References] 국가임상시험지원재단, 글로벌 임상시험 동향 Vol. 3, 2022.06.22.
-  >- [References] Pharmaceutical technology , Digital Biomarkers : Healthcare trends, 2020.06.23., https://www.pharmaceutical-technology.com/comment/digital-biomarkers-healthcare-trends/
-  >- [References] 약업신문 , ‘디지털의 역습’ 제약바이오 패러다임 大 전환, 2022.07.01, https://www.yakup.com/news/index.html?mode=view&cat=12&nid=271144  
-
+  >[References]  
+  >- 생명공학정책연구센터, 글로벌 디지털 바이오마커 시장 현황 및 전망, 2020. 07, https://www.bioin.or.kr/board.do?num=299025&cmd=view&bid=watch  
+  >- 국가임상시험지원재단, 글로벌 임상시험 동향 Vol. 3, 2022.06.22.  
+  >- Pharmaceutical technology , Digital Biomarkers : Healthcare trends, 2020.06.23., https://www.pharmaceutical-technology.com/comment/digital-biomarkers-healthcare-trends/  
+  >- 약업신문 , ‘디지털의 역습’ 제약바이오 패러다임 大 전환, 2022.07.01, https://www.yakup.com/news/index.html?mode=view&cat=12&nid=271144   
 
 - 신약개발 핵심으로 떠오른 '바이오마커' 활용하려면?, http://www.newsthevoice.com/news/articleView.html?idxno=28931
-  >이어 "약물개발 프로세스를 가속화하고 임상시험의 가능성을 완전하게 구현하기 위해서 ‘디지털 바이오마커’의 개념이 제시된다"면서 "이는 분산형 임상시험(DCT)을 가능하게 하여 원격 환자 모니터링 및 치료 제공을 가능하게 해 임상 2상 및 3상에서의 일정 단축으로 비용을 절감할 수 있다"고 전했다. 
-
-- 디지털 바이오마커, 신약개발 비용·시간 줄여줘, https://news.nate.com/view/20220912n00915
+  >이어 "약물개발 프로세스를 가속화하고 임상시험의 가능성을 완전하게 구현하기 위해서 ‘디지털 바이오마커’의 개념이 제시된다"면서 "이는 분산형 임상시험(DCT)을 가능하게 하여 원격 환자 모니터링 및 치료 제공을 가능하게 해 임상 2상 및 3상에서의 일정 단축으로 비용을 절감할 수 있다"고 전했다.  
 - ‘디지털 바이오마커’, 신약 개발 비용·시간 줄여, https://www.medworld.co.kr/news/articleView.html?idxno=213790
 - 디지털 바이오마커, 신약개발 비용·시간 줄여줘, https://newsis.com/view/?id=NISX20220908_0002008428
 
