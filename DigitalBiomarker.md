@@ -52,7 +52,7 @@ RPM refers to the measurement and analysis of a patient’s health metrics, incl
 
 한국원격의료학회 심포지엄: 디지털 치료제의 현안과 미래 (2021.07.09), https://telemedicine.or.kr/sub/sub05_02.php?boardid=data&mode=view&idx=1&sk=&sw=&offset=48&category=
 
-DIGITAL BIOMARKER와 RWE를 활용한 변화, 
+DIGITAL BIOMARKER와 RWE를 활용한 변화, 조현철 교수
 ![image](https://user-images.githubusercontent.com/109835677/190316414-781d7387-2d2e-4197-9074-d89e2357a225.png)
 ![image](https://user-images.githubusercontent.com/109835677/190316505-1ba75351-0cb2-4af1-a071-ebaa6cc05aaf.png)
 
