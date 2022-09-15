@@ -12,7 +12,7 @@ Back to https://github.com/Kwangkee/rPPG
 - Quantifying the Benefits of Digital Biomarkers and Technology-Based Study Endpoints in Clinical Trials: Project Moneyball, https://www.karger.com/Article/FullText/525255
 
 
-
+***
 
 - [Cover Story - VIEW] 디지털 바이오마커의 시대가 온다, https://www.hankyung.com/it/article/202110212935i
 >바이오마커 없는 신약 개발은 이제 생각할 수 없는 것처럼, 디지털 치료제에 적합한 디지털 바이오마커의 중요성이 필연적으로 커지고 있다.  
