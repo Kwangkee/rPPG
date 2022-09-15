@@ -2,8 +2,8 @@ Back to https://github.com/Kwangkee/rPPG
 ***
 
 ## Lists
-[Digital Biomarkers: Healthcare Trends](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#digital-biomarkers-healthcare-trends)
-[Digital Biomarkers: Bio Economy Brief](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#bio-economy-brief)
+- [Digital Biomarkers: Healthcare Trends](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#digital-biomarkers-healthcare-trends)
+- [Digital Biomarkers: Bio Economy Brief](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#bio-economy-brief)
 
 ***
 
