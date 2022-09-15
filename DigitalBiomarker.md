@@ -2,11 +2,12 @@ Back to https://github.com/Kwangkee/rPPG
 ***
 
 ## Lists
-
+[Digital Biomarkers: Healthcare Trends](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#digital-biomarkers-healthcare-trends)
+[Digital Biomarkers: Healthcare Trends](https://github.com/Kwangkee/rPPG/blob/main/DigitalBiomarker.md#KoreaBio)
 
 ***
 
-## KoreaBio
+## KoreaBio Brief
 - [한국바이오협회] 신약개발에서 디지털 바이오마커의 기회, https://www.koreabio.org/board/download.php?board=Y&bo_table=brief&file_name=b_file_166250674940nxl3hizf.pdf&o_file_name=%EB%B8%8C%EB%A6%AC%ED%94%84+162%ED%98%B8_%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C%EC%97%90%EC%84%9C+%EB%94%94%EC%A7%80%ED%84%B8%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4%EC%9D%98+%EA%B8%B0%ED%9A%8C_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf
   >디지털 바이오마커는 분산형 임상시험(DCT)를 가능하게 하여 원격으로 환자의 모니터링과 치료 제공
   >최근 분산형 임상시험(DCT)와 연계하여 신약개발사에게 헬스케어 데이터 활용 및 신약개발 성공에 있어 실사용 증거(Real world evidence, RWE)개념이 큰 화두로 떠오르고 있다. RWE란 병원의 전자의무기록 등을 포함한 실사용 데이터(Real world data, RWD)를 분석해 얻는 임상적 증거다. 현재 RWE가 기허가 제품의 적응증 확장이나 PMS 등 임상시험의 주변범위에 제한적으로 쓰이고는 있으나, 신약개발 및 신규허가까지는 활용되지 않고있다. RWE의 인정범위를 어떻게 늘려갈 것인지에 따라 DCT, RPM, 디지털 바이오마커 등 기술요소의 활용 범위와 직결될 것이다. 
