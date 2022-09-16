@@ -3,7 +3,7 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 
 ||Web Site|More Info|
 |--|--|--|
-|Binah|https://www.binah.ai/sdk/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#binah|
+|Binah|https://www.binah.ai/sdk/|-|
 |Nuralogix/Anura|https://www.nuralogix.ai/anura/|https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Nuralogix.md#nuralogix-anura|
 |MX Labs/Heart Monitor|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
 |Veyetals|https://veyetals.com/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#veyetals|
@@ -12,13 +12,6 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 |감성텍/HeartMonitor|http://www.gamsungtech.com/products.html|-|
 |PPG|||
 |심박수 측정기 - 펄스|https://play.google.com/store/apps/details?id=heartratemonitor.heartrate.pulse.pulseapp|-|
-
-***
-## Binah
-Binah, https://www.binah.ai/
-
-#### Binah Webinar
-- All You Need to Know About Binah SDK, https://info.binah.ai/share/hubspotvideo/85020355429?utm_campaign=live-webinar-sdk-sep-2022&utm_medium=email&_hsmi=226127938&_hsenc=p2ANqtz-_UWq-Ug0BtfeP2eHDqDagMuQV6S08KlTg7NUfcDf46jJZI2EBWR3Vq3aZU28YjRpDYt2aIGDTiMY5eH_T_ClruwNjZbw&utm_content=226127938&utm_source=hs_email, Sep/2022  
 
 ***
 ## MX Labs
