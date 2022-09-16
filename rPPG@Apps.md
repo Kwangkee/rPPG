@@ -3,7 +3,7 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 
 ||Web Site|More Info|
 |--|--|--|
-|Binah|https://www.binah.ai/sdk/|-|
+|Binah|https://www.binah.ai/sdk/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#binah|
 |Nuralogix/Anura|https://www.nuralogix.ai/anura/|https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Nuralogix.md#nuralogix-anura|
 |MX Labs/Heart Monitor|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
 |Veyetals|https://veyetals.com/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#veyetals|
@@ -13,8 +13,11 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 |PPG|||
 |심박수 측정기 - 펄스|https://play.google.com/store/apps/details?id=heartratemonitor.heartrate.pulse.pulseapp|-|
 
+***
+## Binah
+MX Labs, https://mxlabs.ai
 
-
+***
 ## MX Labs
 MX Labs, https://mxlabs.ai
 
@@ -25,7 +28,7 @@ MX Labs, https://mxlabs.ai
   >- 특이 사항: ADD BP READING : BP 수기 입력  
   >- 특이 사항: JOIN RESEARCH : 자신의 BP 와 Facial Video 를 제공 -> 보상?  
 
-
+***
 ## Veyetals
 Veyetals, https://veyetals.com/
 
@@ -40,6 +43,7 @@ Veyetals, https://veyetals.com/
   >- https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md#a-web-application-for-experimenting-and-validating-remote-measurement-of-vital-signs 는 위의 학교 버전인 듯싶은데, Server-side (Backend) 포함해서 참고해 보면 좋겠습니다.
   >-	3.1 Subsystem 1: Front-end Web Interface The front-end web interface shown in Fig. 2 can be accessed on the browser via a public web URL, https://vital-signs-bamlab.tk/ -> 요게 저는 동작 안 하는데???
 
+***
 ## Vital Sign Monitoring App
 [App] Vital Sign Monitoring App
 - Youtube : https://youtu.be/7eJ2SOdG7fs  
