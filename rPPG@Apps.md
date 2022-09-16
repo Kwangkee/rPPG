@@ -18,7 +18,7 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 Binah, https://www.binah.ai/
 
 #### Binah Webinar
-- All You Need to Know About Binah SDK, https://info.binah.ai/share/hubspotvideo/85020355429?utm_campaign=live-webinar-sdk-sep-2022&utm_medium=email&_hsmi=226127938&_hsenc=p2ANqtz-_UWq-Ug0BtfeP2eHDqDagMuQV6S08KlTg7NUfcDf46jJZI2EBWR3Vq3aZU28YjRpDYt2aIGDTiMY5eH_T_ClruwNjZbw&utm_content=226127938&utm_source=hs_email
+- All You Need to Know About Binah SDK, https://info.binah.ai/share/hubspotvideo/85020355429?utm_campaign=live-webinar-sdk-sep-2022&utm_medium=email&_hsmi=226127938&_hsenc=p2ANqtz-_UWq-Ug0BtfeP2eHDqDagMuQV6S08KlTg7NUfcDf46jJZI2EBWR3Vq3aZU28YjRpDYt2aIGDTiMY5eH_T_ClruwNjZbw&utm_content=226127938&utm_source=hs_email, Sep/2022  
 
 ***
 ## MX Labs
