@@ -8,7 +8,7 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 |MX Labs/Heart Monitor|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
 |Veyetals|https://veyetals.com/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#veyetals|
 |국내|||
-|TVS/VitalApp|Youtube : https://youtu.be/7eJ2SOdG7fs|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app, Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp|[논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582|
+|TVS/VitalApp|Youtube : https://youtu.be/7eJ2SOdG7fs, , Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app, [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582|
 |감성텍/HeartMonitor|http://www.gamsungtech.com/products.html|-|
 |PPG|||
 |심박수 측정기 - 펄스|https://play.google.com/store/apps/details?id=heartratemonitor.heartrate.pulse.pulseapp|-|
