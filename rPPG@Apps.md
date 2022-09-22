@@ -1,7 +1,7 @@
 
 rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 
-||Web Site|More Info|
+|App|Web Site|More Info|
 |--|--|--|
 |Binah|https://www.binah.ai/sdk/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#binah|
 |Nuralogix/Anura|https://www.nuralogix.ai/anura/|https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Nuralogix.md#nuralogix-anura|
