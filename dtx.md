@@ -3,7 +3,7 @@ Back to https://github.com/Kwangkee/rPPG
 
 ## PPG Survey
 - [[Toward Data-Driven Digital Therapeutics Analytics](https://github.com/Kwangkee/rPPG/blob/main/dtx.md#toward-data-driven-digital-therapeutics-analytics)], https://arxiv.org/abs/2205.01851
-- [[A multicenter clinical trial to assess the efficacy of the digital therapeutics for essential hypertension](), https://onlinelibrary.wiley.com/doi/full/10.1111/jch.13993
+- [[A multicenter clinical trial to assess the efficacy of the digital therapeutics for essential hypertension](https://github.com/Kwangkee/rPPG/blob/main/dtx.md#a-multicenter-clinical-trial-to-assess-the-efficacy-of-the-digital-therapeutics-for-essential-hypertension), https://onlinelibrary.wiley.com/doi/full/10.1111/jch.13993
 
 
 ***
