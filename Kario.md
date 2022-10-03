@@ -7,7 +7,7 @@ Back to https://github.com/Kwangkee/rPPG
 
 ## Papers
 - [[Digital Hypertension 2023: Concept, hypothesis, and new technology](https://github.com/Kwangkee/rPPG/blob/main/Kario.md#digital-hypertension-2023)], https://www.nature.com/articles/s41440-022-00997-y
-- Digital Therapeutics in Hypertension: Evidence and Perspectives, https://www.ahajournals.org/doi/abs/10.1161/HYPERTENSIONAHA.122.19414
+- [[Digital Therapeutics in Hypertension: Evidence and Perspectives](https://github.com/Kwangkee/rPPG/blob/main/Kario.md#digital-therapeutics-in-hypertension)], https://www.ahajournals.org/doi/abs/10.1161/HYPERTENSIONAHA.122.19414
 - Automatic transmission of home blood pressure data can be effective in managing hypertension: a systematic review and meta-analysis, https://academic.oup.com/ehjdh/advance-article/doi/10.1093/ehjdh/ztac049/6693770
 - [[A multicenter clinical trial to assess the efficacy of the digital therapeutics for essential hypertension](https://github.com/Kwangkee/rPPG/blob/main/dtx.md#a-multicenter-clinical-trial-to-assess-the-efficacy-of-the-digital-therapeutics-for-essential-hypertension), https://onlinelibrary.wiley.com/doi/full/10.1111/jch.13993
 - Efficacy of a digital therapeutics system in the management of essential hypertension: the HERB-DH1 pivotal trial, https://academic.oup.com/eurheartj/article/42/40/4111/6358480 
