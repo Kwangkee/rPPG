@@ -13,6 +13,9 @@ Back to https://github.com/Kwangkee/rPPG
 - Efficacy of a digital therapeutics system in the management of essential hypertension: the HERB-DH1 pivotal trial, https://academic.oup.com/eurheartj/article/42/40/4111/6358480 
 - Digital therapeutics for essential hypertension using a smartphone application: A randomized, open-label, multicenter pilot study, https://onlinelibrary.wiley.com/doi/full/10.1111/jch.14191
 
+## 큐어앱
+https://www.google.com/search?q=%ED%81%90%EC%96%B4%EC%95%B1
+
 ***
 # Digital Hypertension 2023
 Digital Hypertension 2023: Concept, hypothesis, and new technology, https://www.nature.com/articles/s41440-022-00997-y
@@ -22,6 +25,18 @@ Digital Hypertension 2023: Concept, hypothesis, and new technology, https://www.
 >일본고혈압학회(JSH)는 심혈관질환의 가장 큰 원인인 고혈압을 퇴치하고, 초고령화 사회에서 건강한 기대수명을 연장하는 것을 목표로 『JSH 미래계획』을 만들고, 『디지털 고혈압』[4,5,6]이라는 새로운 학문분야를 제안하였다. 디지털고혈압은 ICT를 활용해 고혈압 치료와 관련 의료에 부가가치를 창출하는 새로운 학문분야로 디지털기술, 임상연구, 인공지능(AI)을 활용한 빅데이터 분석 등의 접근법을 활용해 고혈압 치료와 서비스를 종합적으로 추진하는 디지털헬스의 학문분야로 인정받을 수 있다.
 >
 >또한 이 새로운 분야는 센서(웨어러블, 커프리스 등), 정보처리, 기계학습(그림)[1, 3, 7, 8, 9, 10, 11, 12, 13]과 같은 신기술 및 분석 방법의 개발을 특징으로 한다. 디지털 고혈압 프로젝트는 이러한 기술을 연계·적용하는 헬스케어 플랫폼 개발을 통해 고혈압의 이해와 치료법 개발, 예방 증진에 기여할 수 있다. 웨어러블 및/또는 커프리스 혈압 모니터링[7,8,9,10,11,12,13], 실시간 가정 모니터링[1], 실제 국가 빅데이터 분석[14] 및 디지털 치료[15,16]에 대한 연구 논문 수가 증가하고 있다. 임상 실무에서 COVID-19 대유행은 원격 의료와 고혈압의 가상 관리를 용이하게 했다[17, 18].
+
+***
+# Digital Therapeutics in Hypertension
+Digital Therapeutics in Hypertension: Evidence and Perspectives, https://www.ahajournals.org/doi/abs/10.1161/HYPERTENSIONAHA.122.19414  
+
+>디지털 치료학은 의료 상태를 치료, 관리 또는 예방하기 위해 고품질 소프트웨어 프로그램에 의해 주도되는 증거 기반 치료 개입의 사용을 말한다. 이러한 접근법은 세계적으로 예방 가능한 심혈관 질환 위험 요소인 공통 질환인 고혈압의 관리를 위해 점점 더 연구되고 있다. 디지털 개입은 지침에서 권장하는 중요한 생활 방식 수정의 수용을 촉진하고, 가정 혈압 모니터링을 강화하며, 치료 관성을 감소시키고, 약물 의존성을 개선하는 데 도움이 될 수 있다. 
+>
+>그러나 현재 연구는 중간 정도의 품질에 불과하며, 평가된 개입, 사용된 대조군 및 얻은 결과에서 매우 이질적이다. 따라서 의료 전문가의 의견과 객관적인 엔드포인트를 가진 강력한 임상시험에서 이러한 개입에 대한 평가로 설계된 보편적으로 적용 가능하고 일관된 디지털 치료 전략의 개발에 초점을 맞춘 추가 연구가 필요하다. 코로나바이러스병 2019 대유행으로 촉발된 디지털 치료의 모멘텀이 이 분야의 발전을 극대화하고 광범위한 구현을 추진하는 데 활용될 수 있기를 바란다.
+
+![image](https://user-images.githubusercontent.com/109835677/193628785-3101df10-d38d-4ad1-b3ff-ea0cdf3ad818.png)
+![image](https://user-images.githubusercontent.com/109835677/193628967-11daf5b9-b153-426a-94b9-48b65ee56adf.png)
+![image](https://user-images.githubusercontent.com/109835677/193629035-eb4bb64c-3f0b-4486-9a36-8901e253d0c4.png)
 
 ***
 # A multicenter clinical trial to assess the efficacy of the digital therapeutics for essential hypertension
