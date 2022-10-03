@@ -36,7 +36,6 @@ Digital Therapeutics in Hypertension: Evidence and Perspectives, https://www.aha
 >
 >그러나 현재 연구는 중간 정도의 품질에 불과하며, 평가된 개입, 사용된 대조군 및 얻은 결과에서 매우 이질적이다. 따라서 의료 전문가의 의견과 객관적인 엔드포인트를 가진 강력한 임상시험에서 이러한 개입에 대한 평가로 설계된 보편적으로 적용 가능하고 일관된 디지털 치료 전략의 개발에 초점을 맞춘 추가 연구가 필요하다. 코로나바이러스병 2019 대유행으로 촉발된 디지털 치료의 모멘텀이 이 분야의 발전을 극대화하고 광범위한 구현을 추진하는 데 활용될 수 있기를 바란다.
 
-![image](https://user-images.githubusercontent.com/109835677/193628785-3101df10-d38d-4ad1-b3ff-ea0cdf3ad818.png)
 ![image](https://user-images.githubusercontent.com/109835677/193628967-11daf5b9-b153-426a-94b9-48b65ee56adf.png)
 ![image](https://user-images.githubusercontent.com/109835677/193629035-eb4bb64c-3f0b-4486-9a36-8901e253d0c4.png)
 
