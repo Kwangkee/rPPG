@@ -8,8 +8,8 @@ Back to https://github.com/Kwangkee/rPPG
 [[Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks)], https://ieeexplore.ieee.org/document/9175902
 
 ## Contact vs. Non-contact methods  
-- [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
-- [Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone), https://www.nature.com/articles/s41746-022-00629-2
+- [[Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement)], https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
+- [[Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone)], https://www.nature.com/articles/s41746-022-00629-2
 
 ***
 ## The use of photoplethysmography for assessing hypertension
