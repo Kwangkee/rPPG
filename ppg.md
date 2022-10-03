@@ -6,13 +6,21 @@ Back to https://github.com/Kwangkee/rPPG
   >[한글 해설] https://jiryang.github.io/2020/06/04/PPG4BP/  
 - Diagnostic Features and Potential Applications of PPG Signal in Healthcare: A Systematic Review, https://www.mdpi.com/2227-9032/10/3/547
 - A Survey of Photoplethysmography and Imaging Photoplethysmography Quality Assessment Methods, https://www.mdpi.com/2076-3417/12/19/9582
-- Application of photoplethysmography signals for healthcare systems: An in-depth review, https://www.sciencedirect.com/science/article/pii/S0169260722000621  
+- Application of photoplethysmography signals for healthcare systems: An in-depth review, https://www.sciencedirect.com/science/article/pii/S0169260722000621    
 
-
+[]  
+- Human Emotion Recognition: Review of Sensors and Methods, https://www.mdpi.com/1424-8220/20/3/592
+- Physiological and Behavior Monitoring Systems for Smart Healthcare Environments: A Review, https://www.mdpi.com/1424-8220/20/8/2186/htm
 
 ## PPG Papers
 - [[Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks)], https://ieeexplore.ieee.org/document/9175902
 - PP-Net: A Deep Learning Framework for PPG-Based Blood Pressure and Heart Rate Estimation, https://ieeexplore.ieee.org/document/9082808
+- A Refined Blood Pressure Estimation Model Based on Single Channel Photoplethysmography, https://ieeexplore.ieee.org/abstract/document/9891723
+- Photoplethysmography based atrial fibrillation detection: a review, https://www.nature.com/articles/s41746-019-0207-9
+- A digital biomarker of diabetes from smartphone-based vascular signals, https://www.nature.com/articles/s41591-020-1010-5
+- On-demand mobile health infrastructures to allow comprehensive remote atrial fibrillation and risk factor management through teleconsultation, https://onlinelibrary.wiley.com/doi/full/10.1002/clc.23469
+
+
 
 
 ## Contact vs. Non-contact methods  
