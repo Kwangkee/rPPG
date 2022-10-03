@@ -37,8 +37,8 @@ Back to https://github.com/Kwangkee/rPPG
 - Digital Therapeutics in Hypertension: Evidence and Perspectives, https://www.ahajournals.org/doi/full/10.1161/HYPERTENSIONAHA.122.19414
 - Digital therapeutics: a systematic review of clinical trials characteristics, https://academic.oup.com/eurheartj/article/42/Supplement_1/ehab724.3115/6391994 
 
-
-
+#### 디지터치료제+혈압
+https://www.google.com/search?q=%EB%94%94%EC%A7%80%ED%84%B0%EC%B9%98%EB%A3%8C%EC%A0%9C+%ED%98%88%EC%95%95
 
 ***
 # Toward Data-Driven Digital Therapeutics Analytics
