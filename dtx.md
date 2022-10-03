@@ -2,11 +2,37 @@ Back to https://github.com/Kwangkee/rPPG
 ***
 
 ## Papers
+
+#### https://www.appliedclinicaltrialsonline.com/ 
+- Digital Therapeutics and Decentralized Trials: A Match Made in Clinical, https://www.appliedclinicaltrialsonline.com/view/digital-therapeutics-and-decentralized-trials-a-match-made-in-clinical
+- How Remote Patient Monitoring Technology Can Impact Decentralized Clinical Trials, https://www.appliedclinicaltrialsonline.com/view/how-remote-patient-monitoring-technology-can-impact-decentralized-clinical-trials
+- BlockChain in Clinical Trials—the Ultimate Data Notary, https://www.appliedclinicaltrialsonline.com/view/blockchain-clinical-trials-ultimate-data-notary 
+
+#### https://www.google.com/search?q=Digital+Therapeutics+Decentralized+Clinical+Trials
+- Unique Considerations in Designing Decentralized Trials for Digital Therapeutics, https://acrpnet.org/2022/06/21/unique-considerations-in-designing-decentralized-trials-for-digital-therapeutics/
+- Prescription Digital Therapeutics, Digital Health Tools, & Decentralized Clinical Trials: How They Interact, https://www.curebase.com/blog/prescription-digital-therapeutics-digital-health-tools-decentralized-clinical-trials-how-they-interact 
+- Digital Therapeutics Companies Lean into Decentralized Clinical Trials, https://www.pm360online.com/digital-therapeutics-companies-lean-into-decentralized-clinical-trials/
+- Appropriate controls for digital therapeutic clinical trials: A narrative review of control conditions in clinical trials of digital therapeutics (DTx) deploying psychosocial, cognitive, or behavioral content, https://www.frontiersin.org/articles/10.3389/fdgth.2022.823977/full
+- Choosing an EDC with a Robust API for Digital Therapeutics Clinical Trials, https://www.castoredc.com/blog/edc-with-api-for-digital-therapeutics-clinical-trials/ 
+
+#### https://www.google.com/search?q=Digital+Therapeutics+Decentralized+Clinical+Trials+federated+learning
+
+#### 
+- Clinical Evaluation of Digital Therapeutics: Present and Future, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9388922/
+- Appropriate controls for digital therapeutic clinical trials: A narrative review of control conditions in clinical trials of digital therapeutics (DTx) deploying psychosocial, cognitive, or behavioral content., https://europepmc.org/article/pmc/pmc9436387
+
 - [[Toward Data-Driven Digital Therapeutics Analytics](https://github.com/Kwangkee/rPPG/blob/main/dtx.md#toward-data-driven-digital-therapeutics-analytics)], https://arxiv.org/abs/2205.01851
+
+#### Japaese
 - [[A multicenter clinical trial to assess the efficacy of the digital therapeutics for essential hypertension](https://github.com/Kwangkee/rPPG/blob/main/dtx.md#a-multicenter-clinical-trial-to-assess-the-efficacy-of-the-digital-therapeutics-for-essential-hypertension), https://onlinelibrary.wiley.com/doi/full/10.1111/jch.13993
 - Efficacy of a digital therapeutics system in the management of essential hypertension: the HERB-DH1 pivotal trial, https://academic.oup.com/eurheartj/article/42/40/4111/6358480 
+- Digital therapeutics for essential hypertension using a smartphone application: A randomized, open-label, multicenter pilot study, https://onlinelibrary.wiley.com/doi/full/10.1111/jch.14191
 
+#### Hypertension
 - Digital Therapeutics in Hypertension: Evidence and Perspectives, https://www.ahajournals.org/doi/full/10.1161/HYPERTENSIONAHA.122.19414
+- Digital therapeutics: a systematic review of clinical trials characteristics, https://academic.oup.com/eurheartj/article/42/Supplement_1/ehab724.3115/6391994 
+
+
 
 
 ***
