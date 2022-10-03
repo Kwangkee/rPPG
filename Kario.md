@@ -13,9 +13,10 @@ Back to https://github.com/Kwangkee/rPPG
 - Efficacy of a digital therapeutics system in the management of essential hypertension: the HERB-DH1 pivotal trial, https://academic.oup.com/eurheartj/article/42/40/4111/6358480 
 - Digital therapeutics for essential hypertension using a smartphone application: A randomized, open-label, multicenter pilot study, https://onlinelibrary.wiley.com/doi/full/10.1111/jch.14191
 
-## 큐어앱
+## 디지터치료제 혈압 큐어앱
 - https://cureapp.co.jp/en/
 - https://www.google.com/search?q=%ED%81%90%EC%96%B4%EC%95%B1
+- https://www.google.com/search?q=%EB%94%94%EC%A7%80%ED%84%B0%EC%B9%98%EB%A3%8C%EC%A0%9C+%ED%98%88%EC%95%95
 
 ***
 # Digital Hypertension 2023
