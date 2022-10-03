@@ -14,7 +14,8 @@ Back to https://github.com/Kwangkee/rPPG
 - Digital therapeutics for essential hypertension using a smartphone application: A randomized, open-label, multicenter pilot study, https://onlinelibrary.wiley.com/doi/full/10.1111/jch.14191
 
 ## 큐어앱
-https://www.google.com/search?q=%ED%81%90%EC%96%B4%EC%95%B1
+- https://cureapp.co.jp/en/
+- https://www.google.com/search?q=%ED%81%90%EC%96%B4%EC%95%B1
 
 ***
 # Digital Hypertension 2023
