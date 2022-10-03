@@ -4,6 +4,8 @@ Back to https://github.com/Kwangkee/rPPG
 ## Papers
 - [[Toward Data-Driven Digital Therapeutics Analytics](https://github.com/Kwangkee/rPPG/blob/main/dtx.md#toward-data-driven-digital-therapeutics-analytics)], https://arxiv.org/abs/2205.01851
 - [[A multicenter clinical trial to assess the efficacy of the digital therapeutics for essential hypertension](https://github.com/Kwangkee/rPPG/blob/main/dtx.md#a-multicenter-clinical-trial-to-assess-the-efficacy-of-the-digital-therapeutics-for-essential-hypertension), https://onlinelibrary.wiley.com/doi/full/10.1111/jch.13993
+- Efficacy of a digital therapeutics system in the management of essential hypertension: the HERB-DH1 pivotal trial, https://academic.oup.com/eurheartj/article/42/40/4111/6358480 
+
 - Digital Therapeutics in Hypertension: Evidence and Perspectives, https://www.ahajournals.org/doi/full/10.1161/HYPERTENSIONAHA.122.19414
 
 
