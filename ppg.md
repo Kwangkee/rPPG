@@ -5,7 +5,7 @@ Back to https://github.com/Kwangkee/rPPG
 [[The use of photoplethysmography for assessing hypertension](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#the-use-of-photoplethysmography-for-assessing-hypertension)], https://www.nature.com/articles/s41746-019-0136-7
 >[한글 해설] https://jiryang.github.io/2020/06/04/PPG4BP/  
 
-[Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks), https://ieeexplore.ieee.org/document/9175902
+[[Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks)], https://ieeexplore.ieee.org/document/9175902
 
 ## Contact vs. Non-contact methods  
 - [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
@@ -20,6 +20,7 @@ The use of photoplethysmography for assessing hypertension, https://www.nature.c
 ![image](https://user-images.githubusercontent.com/109835677/184668436-233ba032-1084-40da-b95a-9569de08896b.png)
 ![image](https://user-images.githubusercontent.com/109835677/184668584-7104bf00-2616-41e1-b00b-9c09d255c7b8.png)
 
+***
 ## Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks
 Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks, https://ieeexplore.ieee.org/document/9175902
 
