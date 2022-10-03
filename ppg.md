@@ -1,11 +1,15 @@
 Back to https://github.com/Kwangkee/rPPG
 ***
 
-## PPG
+## PPG Survey
 - [[The use of photoplethysmography for assessing hypertension](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#the-use-of-photoplethysmography-for-assessing-hypertension)], https://www.nature.com/articles/s41746-019-0136-7
   >[한글 해설] https://jiryang.github.io/2020/06/04/PPG4BP/  
+- Diagnostic Features and Potential Applications of PPG Signal in Healthcare: A Systematic Review, https://www.mdpi.com/2227-9032/10/3/547
 
+## PPG Papers
 - [[Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks)], https://ieeexplore.ieee.org/document/9175902
+- PP-Net: A Deep Learning Framework for PPG-Based Blood Pressure and Heart Rate Estimation, https://ieeexplore.ieee.org/document/9082808
+
 
 ## Contact vs. Non-contact methods  
 - [[Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement)], https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
