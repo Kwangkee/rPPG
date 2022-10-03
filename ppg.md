@@ -2,7 +2,7 @@ Back to https://github.com/Kwangkee/rPPG
 ***
 
 ## PPG
-[The use of photoplethysmography for assessing hypertension](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#the-use-of-photoplethysmography-for-assessing-hypertension), https://www.nature.com/articles/s41746-019-0136-7
+[[The use of photoplethysmography for assessing hypertension](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#the-use-of-photoplethysmography-for-assessing-hypertension)], https://www.nature.com/articles/s41746-019-0136-7
 >[한글 해설] https://jiryang.github.io/2020/06/04/PPG4BP/  
 
 [Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks), https://ieeexplore.ieee.org/document/9175902
