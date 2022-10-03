@@ -40,6 +40,14 @@ Digital Therapeutics in Hypertension: Evidence and Perspectives, https://www.aha
 ![image](https://user-images.githubusercontent.com/109835677/193628967-11daf5b9-b153-426a-94b9-48b65ee56adf.png)
 ![image](https://user-images.githubusercontent.com/109835677/193629035-eb4bb64c-3f0b-4486-9a36-8901e253d0c4.png)
 
+###
+# Digital therapeutics for essential hypertension using a smartphone application
+Digital therapeutics for essential hypertension using a smartphone application: A randomized, open-label, multicenter pilot study, https://onlinelibrary.wiley.com/doi/full/10.1111/jch.14191  
+
+>고혈압은 심혈관 질환의 가장 중요하지만 치료 가능한 위험 요소이다. 비록 의사들이 여러 항고혈압제를 처방하고 생활습관 변화를 촉진하지만, 실제 혈압(BP) 조절율은 여전히 낮다. BP 목표 달성을 개선하기 위해, 우리는 고혈압을 관리하기 위한 새로운 디지털 치료제인 HERB 소프트웨어 시스템을 개발했다. 
+>
+>여기서는 고혈압에 대한 HERB 시스템의 안전성과 유효성을 평가하기 위해 무작위 파일럿 연구를 수행했다. 2018년 3월부터 2019년 3월까지 본태성 고혈압 환자 146명을 모집했습니다. 우리는 적격 환자를 중재 그룹(HERB 시스템 + 표준 라이프스타일 수정) 또는 통제 그룹(표준 라이프스타일 수정만)에 할당했다. 주요 결과는 보행 혈압 모니터링(ABPM)에 의해 측정된 24시간 수축기 BP(SBP)에서 기준선에서 24주로 평균 변화였다. 각 그룹의 기준선 특성은 균형이 잘 맞았으며 평균 연령은 약 57세였으며 67%가 남성이었다. 24주의 1차 종점에서 HERB 개입은 대조군과 비교하여 ABPM에 의한 24시간 SBP의 평균 변화를 낮추지 않았다(조정된 차이: -0.66 mmHg; p = 0.78). 65세 미만 고혈압 약물감염 환자를 대상으로 한 탐색 분석에서 HERB 개입 효과는 16주(조정된 차이: -7.6mmHg, p=013, 그리고 24주(조정된 차이 - 6.0mmHg, p=0.12)에서 ABPM에 의한 24시간 SBP 감소에 대한 대조군보다 유의하게 컸다. 따라서 HERB 개입은 1차 효능 종료점을 달성하지 못했다. 그러나 65세 미만의 항고혈압 약물 태생 성인 고혈압 환자는 시스템의 효능에 대한 추가 조사를 위한 잠재적 HERB 시스템 효과적인 대상이 될 수 있음을 관찰했다.
+
 ***
 # A multicenter clinical trial to assess the efficacy of the digital therapeutics for essential hypertension
 A multicenter clinical trial to assess the efficacy of the digital therapeutics for essential hypertension: Rationale and design of the HERB-DH1 trial, https://onlinelibrary.wiley.com/doi/full/10.1111/jch.13993
