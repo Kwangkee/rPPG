@@ -13,7 +13,7 @@ Back to https://github.com/Kwangkee/rPPG
 - Physiological and Behavior Monitoring Systems for Smart Healthcare Environments: A Review, https://www.mdpi.com/1424-8220/20/8/2186/htm
 
 ## PPG Papers
-- [[Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks)], https://ieeexplore.ieee.org/document/9175902
+- [[Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks](https://github.com/Kwangkee/rPPG/blob/main/ppg.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks)], https://ieeexplore.ieee.org/document/9175902
 - PP-Net: A Deep Learning Framework for PPG-Based Blood Pressure and Heart Rate Estimation, https://ieeexplore.ieee.org/document/9082808
 - A Refined Blood Pressure Estimation Model Based on Single Channel Photoplethysmography, https://ieeexplore.ieee.org/abstract/document/9891723
 - Photoplethysmography based atrial fibrillation detection: a review, https://www.nature.com/articles/s41746-019-0207-9
