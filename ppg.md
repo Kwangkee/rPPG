@@ -22,7 +22,7 @@ Back to https://github.com/Kwangkee/rPPG
 
 
 ## Contact vs. Non-contact methods  
-- [[Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement)], https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
+- [[Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/ppg.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks)], https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
 - [[Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone)], https://www.nature.com/articles/s41746-022-00629-2
 
 ## Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors
