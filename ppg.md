@@ -8,10 +8,6 @@ Back to https://github.com/Kwangkee/rPPG
 - A Survey of Photoplethysmography and Imaging Photoplethysmography Quality Assessment Methods, https://www.mdpi.com/2076-3417/12/19/9582
 - Application of photoplethysmography signals for healthcare systems: An in-depth review, https://www.sciencedirect.com/science/article/pii/S0169260722000621    
 
-[]  
-- Human Emotion Recognition: Review of Sensors and Methods, https://www.mdpi.com/1424-8220/20/3/592
-- Physiological and Behavior Monitoring Systems for Smart Healthcare Environments: A Review, https://www.mdpi.com/1424-8220/20/8/2186/htm
-
 ## PPG Papers
 - [[Blood Pressure Prediction by a Smartphone Sensor using Fully Convolutional Networks](https://github.com/Kwangkee/rPPG/blob/main/ppg.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks)], https://ieeexplore.ieee.org/document/9175902
 - PP-Net: A Deep Learning Framework for PPG-Based Blood Pressure and Heart Rate Estimation, https://ieeexplore.ieee.org/document/9082808
@@ -19,8 +15,16 @@ Back to https://github.com/Kwangkee/rPPG
 - Photoplethysmography based atrial fibrillation detection: a review, https://www.nature.com/articles/s41746-019-0207-9
 - A digital biomarker of diabetes from smartphone-based vascular signals, https://www.nature.com/articles/s41591-020-1010-5
 - On-demand mobile health infrastructures to allow comprehensive remote atrial fibrillation and risk factor management through teleconsultation, https://onlinelibrary.wiley.com/doi/full/10.1002/clc.23469
+- Intra-beat biomarker for accurate continuous non-invasive blood pressure monitoring, https://www.nature.com/articles/s41598-022-19096-6  
 
+## etc
+- Human Emotion Recognition: Review of Sensors and Methods, https://www.mdpi.com/1424-8220/20/3/592
+- Physiological and Behavior Monitoring Systems for Smart Healthcare Environments: A Review, https://www.mdpi.com/1424-8220/20/8/2186/htm
+- COVID-19 detection using a model of photoplethysmography (PPG) signals, https://www.sciencedirect.com/science/article/pii/S1350453322001527
+- BePCon: A Photoplethysmography-based Quality-aware Continuous Beat-to-Beat Blood Pressure Measurement Technique Using Deep Learning, https://ieeexplore.ieee.org/abstract/document/9913482
+- Systolic Blood Pressure Estimation from PPG Signal Using ANN, www.mdpi.com/2079-9292/11/18/2909/
 
+ 
 ## Contact vs. Non-contact methods  
 - [[Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/ppg.md#blood-pressure-prediction-by-a-smartphone-sensor-using-fully-convolutional-networks)], https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
 - [[Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone)], https://www.nature.com/articles/s41746-022-00629-2
