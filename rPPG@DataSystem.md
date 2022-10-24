@@ -1,7 +1,7 @@
 Back to https://github.com/Kwangkee/rPPG
 ***
 
-## rPPG Clinical Trial - French
+## rPPG Clinical Trial - France
 - Innovative measurement of routine physiological variables (heart rate, respiratory rate and oxygen saturation) using a remote photoplethysmography imaging system: a prospective comparative trial protocol, https://bmjopen.bmj.com/content/11/8/e047896.abstract
   >The study protocol has been approved by the French Agency for the Safety of Health Products (ANSM registration no. ID RCB 2020-A02428-31) and by a French ethics committee (CPP OUEST I-TOURS-2020T1-30 DM at 30 October 2020). Results will be published in peer-reviewed journals, at scientific conferences and through press releases.   
 - Accurate and Reliable Assessment of Heart Rate in Real-Life Clinical Settings Using an Imaging Photoplethysmography, https://www.mdpi.com/2077-0383/11/20/6101 
