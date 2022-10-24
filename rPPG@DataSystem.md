@@ -1,6 +1,14 @@
 Back to https://github.com/Kwangkee/rPPG
 ***
 
+## Clinical  
+- Innovative measurement of routine physiological variables (heart rate, respiratory rate and oxygen saturation) using a remote photoplethysmography imaging system: a prospective comparative trial protocol, https://bmjopen.bmj.com/content/11/8/e047896.abstract
+  >The study protocol has been approved by the French Agency for the Safety of Health Products (ANSM registration no. ID RCB 2020-A02428-31) and by a French ethics committee (CPP OUEST I-TOURS-2020T1-30 DM at 30 October 2020). Results will be published in peer-reviewed journals, at scientific conferences and through press releases.   
+- Accurate and Reliable Assessment of Heart Rate in Real-Life Clinical Settings Using an Imaging Photoplethysmography, https://www.mdpi.com/2077-0383/11/20/6101 
+  >In order to assess the reliability of HR measurements by rPPG compared to a standard acquisition system (gold standard), we designed a clinical trial with a large cohort of adult patients (both out- and inpatients with stable clinical status).
+Remote Photoplethysmography Is an Accurate Method to Remotely Measure Respiratory Rate: A Hospital-Based Trial, https://www.mdpi.com/2077-0383/11/13/3647
+
+
 ## MobilePhys
 MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=m7Jr-b4AAAAJ&sortby=pubdate&citation_for_view=m7Jr-b4AAAAJ:D_tqNUsBuKoC  
 
