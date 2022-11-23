@@ -17,6 +17,14 @@ Back to https://github.com/Kwangkee/rPPG
 - On-demand mobile health infrastructures to allow comprehensive remote atrial fibrillation and risk factor management through teleconsultation, https://onlinelibrary.wiley.com/doi/full/10.1002/clc.23469
 - Intra-beat biomarker for accurate continuous non-invasive blood pressure monitoring, https://www.nature.com/articles/s41598-022-19096-6  
 
+
+## NYR, Not Yet Reviewed
+- Towards IoT-based Medical Edge Devices: PPG-based Blood Pressure Estimation Application, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+IoT-based+Medical+Edge+Devices%3A+PPG-based+Blood+Pressure+Estimation+Application&btnG=
+- Jaeseok Yun, https://scholar.google.com/citations?hl=en&user=FVKhoEEAAAAJ&view_op=list_works&sortby=pubdate
+- A Benchmark Study of Machine Learning for Analysis of Signal Feature Extraction Techniques for Blood Pressure Estimation Using Photoplethysmography (PPG), https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+benchmark+study+of+machine+learning+for+analysis+of+signal+feature+extraction+techniques+for+blood+pressure+estimation+using+photoplethysmography+%28ppg%29&btnG=
+- 
+
+
 ## etc
 - Human Emotion Recognition: Review of Sensors and Methods, https://www.mdpi.com/1424-8220/20/3/592
 - Physiological and Behavior Monitoring Systems for Smart Healthcare Environments: A Review, https://www.mdpi.com/1424-8220/20/8/2186/htm
