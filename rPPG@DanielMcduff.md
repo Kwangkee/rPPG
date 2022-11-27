@@ -19,6 +19,8 @@ Camera Measurement of Physiological Vital Signs, https://dl.acm.org/doi/10.1145/
 - MetaPhys: few-shot adaptation for non-contact physiological measurement, https://arxiv.org/abs/2010.01773 
 - Deepphys: Video-based physiological measurement using convolutional attention networks, https://openaccess.thecvf.com/content_ECCV_2018/html/Weixuan_Chen_DeepPhys_Video-Based_Physiological_ECCV_2018_paper.html
 
+## To Be Reviewed
+- Seeing Beneath the Skin with Computational Photography, https://cacm.acm.org/magazines/2022/12/266927-seeing-beneath-the-skin-with-computational-photography/abstract
 
 ## FL rPPG 
 [CVPR_2022] Federated Remote Physiological Measurement with Imperfect Data, https://openaccess.thecvf.com/content/CVPR2022W/CVPM/html/Liu_Federated_Remote_Physiological_Measurement_With_Imperfect_Data_CVPRW_2022_paper.html  
