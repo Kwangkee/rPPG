@@ -13,7 +13,7 @@ Camera Measurement of Physiological Vital Signs, https://dl.acm.org/doi/10.1145/
 
 ## Papers
 - [ACM 2022] MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=m7Jr-b4AAAAJ&sortby=pubdate&citation_for_view=m7Jr-b4AAAAJ:D_tqNUsBuKoC  
-- [CVPR 2022] Federated Remote Physiological Measurement with Imperfect Data, https://openaccess.thecvf.com/content/CVPR2022W/CVPM/html/Liu_Federated_Remote_Physiological_Measurement_With_Imperfect_Data_CVPRW_2022_paper.html  
+- [CVPR 2022] [[Federated Remote Physiological Measurement with Imperfect Data](https://github.com/Kwangkee/rPPG/blob/main/rPPG%40DanielMcduff.md#fl-rppg)], https://openaccess.thecvf.com/content/CVPR2022W/CVPM/html/Liu_Federated_Remote_Physiological_Measurement_With_Imperfect_Data_CVPRW_2022_paper.html  
 - [Oct/2021] Learning Higher-Order Dynamics in Video-Based Cardiac Measurement, https://arxiv.org/abs/2110.03690 
 - Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors, https://www.nature.com/articles/s41598-020-67647-6 
 - MetaPhys: few-shot adaptation for non-contact physiological measurement, https://arxiv.org/abs/2010.01773 
