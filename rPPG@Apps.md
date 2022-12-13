@@ -25,7 +25,7 @@ Binah, https://www.binah.ai/
 MX Labs, https://mxlabs.ai
 
 - Shen.AI SDK, https://mxlabs.ai/en/sdk   
-- Heart Monitor, https://mxlabs.ai/en/apps, YouTube: https://www.youtube.com/watch?v=nLfenp5qzho  
+- Heart Monitor, https://mxlabs.ai/en/apps, YouTube: https://www.youtube.com/watch?v=nLfenp5qzho, Google AppSore: https://play.google.com/store/apps/details?id=ai.mxlabs.heartmonitor&pli=1  
   >- 정확도는 모르겠으나, UI 신경 많이 썼고, 안정적으로 동작, 기능도 많이 제공 (Diary 기능/UI 좋네요.)
   >- https://play.google.com/store/apps/details?id=ai.mxlabs.heartmonitor -> App 이름이 심장 모니터: 혈압 일기? 한국인 통해 올린 듯?
   >- 특이 사항: ADD BP READING : BP 수기 입력  
