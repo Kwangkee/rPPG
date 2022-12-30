@@ -49,12 +49,11 @@ The experiments involved are based on a publicly available database MIMIC III, t
 - The continuing research to get cuffless and noninvasive BP measurement model are facing challenges such as data collection, the accuracy of control data, standardization of public dataset, need for validation protocol, patient-specific issues, calibration, the efficiency of the algorithm, integration with the traditional method, issues with the specific dataset, deployment issues, and collaborations, etc. Along with discussing the challenges, there will be recommendations and ways forwards for the researcher to pursue their investigation.
 - **커프리스 및 비침습적 BP 측정 모델을 얻기 위한 지속적인 연구는 데이터 수집, 제어 데이터의 정확성, 공개 데이터 세트의 표준화, 검증 프로토콜의 필요성, 환자별 문제, 교정, 알고리즘의 효율성, 기존 방법과의 통합, 특정 데이터 세트와 같은 과제에 직면해 있다.문제, 배치 문제, 협업 등의 문제가 있습니다. 과제에 대한 논의와 함께, 연구원이 조사를 계속할 수 있는 권장 사항과 방법이 있을 것이다.**
 
-**8.1. Data Collection and Accuracy of Control Data ** 
+8.1. Data Collection and Accuracy of Control Data
 8.2. Validation Protocol  
 8.3. Calibration  
 8.4. The Model or Technique Needs to Be Interpretable  
 8.6. Necessity of Collaboration with a Health Professional  
-
 
 ***
 ## guidelines for a fair assessment
