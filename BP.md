@@ -42,6 +42,15 @@ The experiments involved are based on a publicly available database MIMIC III, t
 ![image](https://user-images.githubusercontent.com/109835677/210046688-5a3e10e2-07b3-449e-95c6-f5776e5d82f5.png)
 
 ***
+Advancement in the Cuffless and Noninvasive Measurement of Blood Pressure: A Review of the Literature and Open Challenges, https://www.mdpi.com/2306-5354/10/1/27
+
+#### 8.2. Validation Protocol
+- There have been a significant number of studies done on this topic. However, due to a lack of similarity between the dataset, chosen data sample, or data acquisition protocol, it is tough to compare one technique. Some of the techniques are mathematical equation based, and some are machine learning algorithm based; the result from both may claim higher accuracy, but there is no way to compare which algorithm performed better. While working with machine learning algorithms, popular datasets contain ABP waveform to consider as the gold standard. When the dataset is privately owned or created from real-life patients, the number of subjects usually remains very small, and at the same time, getting ABP is difficult. To solve this problem, there must be a documented protocol for acquiring data from the patient, selecting the patient, preprocessing the data, and testing the data after preparing the model. Till now, there has been no such protocol available. Additionally, even in the successful experiments where a specific algorithm performed well, none of these have gone through a clinical trial. So the research speed needs to be matched with making the innovation available to be used clinically.
+To solve this problem, there must be a documented protocol for acquiring data from the patient, selecting the patient, preprocessing the data, and testing the data after preparing the model. Till now, there has been no such protocol available. Additionally, even in the successful experiments where a specific algorithm performed well, none of these have gone through a clinical trial. So the research speed needs to be matched with making the innovation available to be used clinically.  
+- 이러한 문제를 해결하기 위해서는 모델을 준비한 후 환자로부터 데이터를 획득하고, 환자를 선택하고, 데이터를 전처리하고, 데이터를 테스트하기 위한 문서화된 프로토콜이 있어야 한다. 지금까지, 그러한 프로토콜은 이용할 수 없었다. 또한, 특정 알고리즘이 잘 수행된 성공적인 실험에서도, 이들 중 어느 것도 임상 실험을 거치지 않았다. 따라서 연구 속도는 혁신을 임상적으로 사용할 수 있도록 하는 것과 일치해야 합니다.  
+
+
+***
 ## guidelines for a fair assessment
 - Blood pressure estimation from photoplethysmography by considering intra- and inter-subject variabilities: guidelines for a fair assessment, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Blood+pressure+estimation+from+photoplethysmography+by+considering+intra-+and+inter-subject+variabilities%3A+guidelines+for+a+fair+assessment&btnG= 
 
