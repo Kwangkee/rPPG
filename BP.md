@@ -31,7 +31,17 @@ The experiments involved are based on a publicly available database MIMIC III, t
 - Deep learning-based methods
 
 (3) Taxonomy 3-whether the relationship among different tasks is modeled? From this perspective, related work can be divided into two categories, please refer Sect. 3.3;  
-(4) Taxonomy 4-the signal source used for building predictive model. From this perspective, related work can be divided into four categories, please refer Sect. 3.4.  
+- Single-task learning
+- Multi-task learning
+
+(4) Taxonomy 4-the signal source used for building predictive model. From this perspective, related work can be divided into four categories, please refer Sect. 3.4. 
+- Physiological signal based
+- Health Behavior data based
+- Trajectory data based
+- Facial video based
+>- (i) mathematical/optical methods, 
+>- (ii) video-based ML methods, 
+>- (iii) video-based DL methods, 
 
 ![image](https://user-images.githubusercontent.com/109835677/210046688-5a3e10e2-07b3-449e-95c6-f5776e5d82f5.png)
 
