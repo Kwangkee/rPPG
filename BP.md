@@ -20,9 +20,20 @@ The experiments involved are based on a publicly available database MIMIC III, t
 
 #### Multi aspects taxonomy of BP prediction methods
 (1) Taxonomy 1-how to model the question of BP prediction from the perspective of machine learning? From this perspective, related work can be divided into five categories, please refer Sect. 3.1;  
+- assification question
+- Regression question
+- Signal conversion
+- Sequence prediction
+- Online/Incremental learning
+
 (2) Taxonomy 2-whether feature extraction and predictive model building are performed simultaneously? From this perspective, related work can be divided into two categories, please refer Sect. 3.2;  
+- Machine learning-based methods
+- Deep learning-based methods
+
 (3) Taxonomy 3-whether the relationship among different tasks is modeled? From this perspective, related work can be divided into two categories, please refer Sect. 3.3;  
 (4) Taxonomy 4-the signal source used for building predictive model. From this perspective, related work can be divided into four categories, please refer Sect. 3.4.  
+
+![image](https://user-images.githubusercontent.com/109835677/210046688-5a3e10e2-07b3-449e-95c6-f5776e5d82f5.png)
 
 ***
 ## guidelines for a fair assessment
