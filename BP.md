@@ -15,6 +15,9 @@ Back to https://github.com/Kwangkee/rPPG
 ## Machine learning and deep learning for blood pressure prediction
 - Machine learning and deep learning for blood pressure prediction: A methodological review from multiple perspectives, https://link.springer.com/article/10.1007/s10462-022-10353-8 
 
+#### Data availability
+The experiments involved are based on a publicly available database MIMIC III, the script to download the dataset and the related experimental code are released on the Github repository: https://github.com/v3551G/BP-prediction-survey.
+
 ***
 ## guidelines for a fair assessment
 - Blood pressure estimation from photoplethysmography by considering intra- and inter-subject variabilities: guidelines for a fair assessment, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Blood+pressure+estimation+from+photoplethysmography+by+considering+intra-+and+inter-subject+variabilities%3A+guidelines+for+a+fair+assessment&btnG= 
