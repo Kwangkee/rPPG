@@ -18,6 +18,11 @@ Back to https://github.com/Kwangkee/rPPG
 #### Data availability
 The experiments involved are based on a publicly available database MIMIC III, the script to download the dataset and the related experimental code are released on the Github repository: https://github.com/v3551G/BP-prediction-survey.
 
+(1) Taxonomy 1-how to model the question of BP prediction from the perspective of machine learning? From this perspective, related work can be divided into five categories, please refer Sect. 3.1;
+(2) Taxonomy 2-whether feature extraction and predictive model building are performed simultaneously? From this perspective, related work can be divided into two categories, please refer Sect. 3.2;
+(3) Taxonomy 3-whether the relationship among different tasks is modeled? From this perspective, related work can be divided into two categories, please refer Sect. 3.3;
+(4) Taxonomy 4-the signal source used for building predictive model. From this perspective, related work can be divided into four categories, please refer Sect. 3.4.
+
 ***
 ## guidelines for a fair assessment
 - Blood pressure estimation from photoplethysmography by considering intra- and inter-subject variabilities: guidelines for a fair assessment, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Blood+pressure+estimation+from+photoplethysmography+by+considering+intra-+and+inter-subject+variabilities%3A+guidelines+for+a+fair+assessment&btnG= 
