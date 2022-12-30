@@ -9,7 +9,7 @@ Back to https://github.com/Kwangkee/rPPG
 - The experimental data & code and other useful resources are available at https://github.com/v3551G/BP-prediction-survey.
 
 ## Papers
-- [[Blood pressure estimation from photoplethysmography by considering intra- and inter-subject variabilities: guidelines for a fair assessment](https://github.com/Kwangkee/rPPG/blob/main/BP.md#guidelines-for-a-fair-assessment), https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Blood+pressure+estimation+from+photoplethysmography+by+considering+intra-+and+inter-subject+variabilities%3A+guidelines+for+a+fair+assessment&btnG= 
+- [[Blood pressure estimation from photoplethysmography by considering intra- and inter-subject variabilities: guidelines for a fair assessment](https://github.com/Kwangkee/rPPG/blob/main/BP.md#guidelines-for-a-fair-assessment)], https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Blood+pressure+estimation+from+photoplethysmography+by+considering+intra-+and+inter-subject+variabilities%3A+guidelines+for+a+fair+assessment&btnG= 
 
 ***
 ## Machine learning and deep learning for blood pressure prediction
@@ -18,6 +18,8 @@ Back to https://github.com/Kwangkee/rPPG
 ***
 ## guidelines for a fair assessment
 - Blood pressure estimation from photoplethysmography by considering intra- and inter-subject variabilities: guidelines for a fair assessment, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Blood+pressure+estimation+from+photoplethysmography+by+considering+intra-+and+inter-subject+variabilities%3A+guidelines+for+a+fair+assessment&btnG= 
+
+- 많은 연구/논문들이 데이터 사용/관리에 문제가 있고, 결과적으로 과장된 결과를 보고하고 있다는 얘기. How about yours?
 
 - Although the use of a single PPG for assessing hypertension is promising, the relationship between PPG and BP is not completely elucidated in fact. In an attempt to indirectly solve this issue, several authors, [27]–[39], have been reporting an accuracy in line with two guidelines, one by the American Association for the Advancement of Medical Instrumentation (AAMI) and the other published by the British Hypertension Society (BHS) [40], [41]. However, as observed by Schrumpf et al. (2021) [42], there is lack of information in the papers over the distribution of the dataset used by them to ensure (1) no mixing samples of the same subject and (2) equal data size per subject. Indeed, except for [43]–[45], authors which partially or completely follow this recommendation are finding errors far above the reference values [42], [46]–[50], denoting that such an estimation problem is not resolved yet. In this work, we investigate how intra- and inter-subject variabilities in BP lead to different results of machine learning algorithms. Moreover, by considering specifically the intra-subject scenario, we compare single PPG machine learning algorithms with a regression using age, sex, weight and subject index number as attributes, and obtain similar results, indicating that the algorithms might actually be learning to identify persons and not predicting BP.
 
