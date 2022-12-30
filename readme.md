@@ -1,17 +1,21 @@
-***
-## Pioneers
-rPPG@DanielMcduff, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DanielMcduff.md  
-rPPG@ZitongYu, https://github.com/Kwangkee/rPPG/blob/main/rPPG@ZitongYu.md  
-rPPG@KangLee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md  
+## PPG, rPPG, BP
+- PPG, https://github.com/Kwangkee/rPPG/blob/main/ppg.md
+- BP, https://github.com/Kwangkee/rPPG/blob/main/BP.md
+- rPPG4BP, https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md
 
 ***
-rPPG@Competition, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Competition.md  
-rPPG@DataSystem, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md  
-rPPG@PublicData, https://github.com/Kwangkee/rPPG/blob/main/rPPG@PublicData.md  
+## Pioneers in rPPG
+- rPPG@DanielMcduff, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DanielMcduff.md  
+- rPPG@ZitongYu, https://github.com/Kwangkee/rPPG/blob/main/rPPG@ZitongYu.md  
+- rPPG@KangLee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md  
 
-## Apps
-https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Apps.md
+***
+- rPPG@Competition, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Competition.md  
+- rPPG@DataSystem, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md  
+- rPPG@PublicData, https://github.com/Kwangkee/rPPG/blob/main/rPPG@PublicData.md  
+- rPPG@Apps, https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Apps.md
 
+***
 ## Vendors
 Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md  
 Binah, https://www.binah.ai/  
