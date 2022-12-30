@@ -41,6 +41,29 @@ The experiments involved are based on a publicly available database MIMIC III, t
 
 ![image](https://user-images.githubusercontent.com/109835677/210046688-5a3e10e2-07b3-449e-95c6-f5776e5d82f5.png)
 
+#### 5.1 Critical issues
+On the basis of a large number of literature analysis, we condensed six issues to be discussed, which are   
+- imbalanced phenomenon, 
+- interpretability issue, 
+- sample duration, 
+- individual diference, 
+- large diference between SBP and DBP prediction accuracy, 
+- and handcrafted features versus machine-learned features.
+
+#### 7.3 A general proposal‑towards objective evaluation of model’s performance
+- Mukkamala et  al. (2021) argue that the increasing number of papers on BP prediction that pass traditional evaluation criteria are methodologically inadequate and misleading, and further revealed the capabilities and limitations of these methods based on several solid experiments. It seems that passing conventional evaluation standards (such as BHS O’Brien et al. 1993, AAMI Zhang et al. 2020b, etc.) and analysis tools (such as BlandAltman plot, etc.) may not necessarily guarantee good performance.
+- Mukkamala et al.(2021)은 전통적인 평가 기준을 통과하는 BP 예측에 대한 논문이 증가하는 것은 방법론적으로 부적절하고 오해의 소지가 있다고 주장하며, 몇 가지 확실한 실험을 기반으로 이러한 방법의 능력과 한계를 추가로 드러냈다. 기존의 평가 표준(BHS O'Brien et al. 1993, AAMI Zhang et al. 2020b 등)과 분석 도구(BlandAltman plot 등)를 통과하는 것이 반드시 양호한 성능을 보장하지는 않을 것으로 보인다.
+
+#### 7.4 Conclusions and future work
+
+Future work      
+- (3) It is time and necessary to explore relevant evaluation standards as well as clinical approval criterion that suitable to cuffless BP estimator, especially to those estimators based on ML and DL methods. By examining the whole process of establishing BP prediction pipeline, we revealed potential factors leading to the unreliability of results related to traditional assessment criteria such as the AAMI and the BHS standards. Besides, Mukkamala et al. (2021) has revealed the potentially misleading facts of some reported conclusions by presentating the limitations of widely-used, conventional BP evaluation standards such as AAMI, etc., and related analyzing tools such as Regression plot and Bland-Altman plot.  
+
+Conclusions  
+- Meanwhile, we believe that training a general BP predictor with genuine strong generalization ability is still challenging, instead of the overly optimistic conclusions claimed in some literatures. In fact, the latest evaluation of smartphone-based BP estimator in a large clinical settings indicates that no commercialization has been made yet (Dörr et al. 2021). We appeal an objective view and deeper thinking on the reported results in a more systematic way.
+- iPhone App compared with standard blood pressure measurement –The iPARR trial. https://www.sciencedirect.com/science/article/pii/S0002870320304026
+
+
 ***
 ## Advancement in the Cuffless and Noninvasive Measurement of Blood Pressure
 - Advancement in the Cuffless and Noninvasive Measurement of Blood Pressure: A Review of the Literature and Open Challenges, https://www.mdpi.com/2306-5354/10/1/27
