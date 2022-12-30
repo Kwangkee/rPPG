@@ -4,7 +4,7 @@
 - rPPG4BP, https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md
 
 ***
-## Pioneers in rPPG
+## Pioneers
 - rPPG@DanielMcduff, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DanielMcduff.md  
 - rPPG@ZitongYu, https://github.com/Kwangkee/rPPG/blob/main/rPPG@ZitongYu.md  
 - rPPG@KangLee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md  
