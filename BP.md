@@ -3,7 +3,7 @@ Back to https://github.com/Kwangkee/rPPG
 
 ## Surveys
 - [[Machine learning and deep learning for blood pressure prediction: A methodological review from multiple perspectives](https://github.com/Kwangkee/rPPG/blob/main/BP.md#machine-learning-and-deep-learning-for-blood-pressure-prediction)], https://link.springer.com/article/10.1007/s10462-022-10353-8 
-- The experimental data & code and other useful resources are available at https://github.com/v3551G/BP-prediction-survey.
+- [[Advancement in the Cuffless and Noninvasive Measurement of Blood Pressure: A Review of the Literature and Open Challenges](https://github.com/Kwangkee/rPPG/blob/main/BP.md#advancement-in-the-cuffless-and-noninvasive-measurement-of-blood-pressure)], https://www.mdpi.com/2306-5354/10/1/27
 
 ## Papers
 - [[Blood pressure estimation from photoplethysmography by considering intra- and inter-subject variabilities: guidelines for a fair assessment](https://github.com/Kwangkee/rPPG/blob/main/BP.md#guidelines-for-a-fair-assessment)], https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Blood+pressure+estimation+from+photoplethysmography+by+considering+intra-+and+inter-subject+variabilities%3A+guidelines+for+a+fair+assessment&btnG= 
