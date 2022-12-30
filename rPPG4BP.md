@@ -1,6 +1,12 @@
 Back to https://github.com/Kwangkee/rPPG
 ***
 
+## NYR
+- Camera-based Blood Pressure Estimation via Windkessel Model and Waveform Features, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Camera-based+Blood+Pressure+Estimation+via+Windkessel+Model+and+Waveform+Features&btnG=
+- [23] H. Luo et al., “Smartphone-based blood pressure measurement using transdermal optical imaging technology,” Circ. Cardiovasc. Imaging, vol. 12, no. 8, p. e008857, 2019.
+- [24] F. Schrumpf, P. Frenzel, C. Aust, G. Osterhoff, and M. Fuchs, “Assessment of deep learning based blood pressure prediction from ppg and rppg signals,” in Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognit. Workshop, 2021, pp. 3820–3830.
+- [25] F. Haugg, M. Elgendi, and C. Menon, “Assessment of Blood Pressure Using Only a Smartphone and Machine Learning Techniques: A Systematic Review,” Front. Cardiovasc. Med., vol. 9, p. 894224, Jun. 2022.
+- [26] J. Steinman, A. Barszczyk, H.S. Sun, K. Lee, and Z.P. Feng, “Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement,” Front. Digit. Health, vol. 3, p. 770096, Nov. 2021.
 
 ## Kang Lee & Nuralogix  
 Kang Lee, https://github.com/Kwangkee/rPPG/blob/main/rPPG@KangLee.md  
@@ -10,9 +16,9 @@ Nuralogix, https://github.com/Kwangkee/rPPG/blob/main/rPPG@Nuralogix.md#nuralogi
 - [Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2: 2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#preliminary-assessment-of-video-based-blood-pressure-measurement-according-to-ansiaamiiso81060-2-2013-guideline-accuracy-criteria-anura-smartphone-app-with-transdermal-optimal-imaging-technolog), https://pubmed.ncbi.nlm.nih.gov/32842022/
 >>[Fulltext] https://journals.lww.com/bpmonitoring/Fulltext/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx?casa_token=3ZXaEoGe5UsAAAAA:hv1EsUG2oGwLBKOUTO6hJeyjJk5nJ4hLun3zs_X9vuWy6A8EWkPzNaYmefn1g_mKEPypiGqJgeFVWnwOnv__FhPP
 
-## Contact vs. Non-contact methods  
-- [Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement), https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
-- [Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone), https://www.nature.com/articles/s41746-022-00629-2
+## Contact vs. Non-contact methods (Finger vs. Facial) 
+- [[Smartphones and Video Cameras: Future Methods for Blood Pressure Measurement](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#smartphones-and-video-cameras-future-methods-for-blood-pressure-measurement)], https://www.frontiersin.org/articles/10.3389/fdgth.2021.770096/full
+- [[Blood pressure measurement using only a smartphone](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#blood-pressure-measurement-using-only-a-smartphone)], https://www.nature.com/articles/s41746-022-00629-2
 
 ## PPG
 - https://github.com/Kwangkee/rPPG/blob/main/ppg.md
