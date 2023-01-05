@@ -9,10 +9,10 @@ Back to https://github.com/Kwangkee/rPPG
 - [DeepAffex™ Dashboard](https://www.nuralogix.ai/deep-affex/)
 - [Nuralogix Anura](https://www.nuralogix.ai/anura/)
 - [DFX Studio™](https://www.nuralogix.ai/dfx-studio/) 
-
-## [Nuralogix Anura](https://www.nuralogix.ai/anura/)
 - Android App : https://play.google.com/store/apps/details?id=ai.nuralogix.nura  
 - iPhone App : https://apps.apple.com/kr/app/anura/id1358813934  
+
+## [Nuralogix Anura](https://www.nuralogix.ai/anura/)
 
 - [2020/Oct, AAMI guideline] Preliminary assessment of video-based blood pressure measurement according to ANSI/AAMI/ISO81060-2:2013 guideline accuracy criteria: Anura smartphone app with transdermal optimal imaging technology, https://journals.lww.com/bpmonitoring/Abstract/2020/10000/Preliminary_assessment_of_video_based_blood.12.aspx 
   >Objective 
