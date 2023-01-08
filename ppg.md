@@ -1,6 +1,9 @@
 Back to https://github.com/Kwangkee/rPPG
 ***
 
+- LED로 심박수를 측정한다고? '광혈류측정 센서(PPG)', https://news.samsungdisplay.com/30140
+
+
 ## PPG Survey
 - [[The use of photoplethysmography for assessing hypertension](https://github.com/Kwangkee/rPPG/blob/main/rPPG4BP.md#the-use-of-photoplethysmography-for-assessing-hypertension)], https://www.nature.com/articles/s41746-019-0136-7
   >[한글 해설] https://jiryang.github.io/2020/06/04/PPG4BP/  
