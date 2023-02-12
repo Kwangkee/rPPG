@@ -8,6 +8,7 @@ Back to https://github.com/Kwangkee/rPPG
 ## Papers
 - PhysFormer++: Facial Video-based Physiological Measurement with SlowFast Temporal Difference Transformer, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=ziHejLwAAAAJ&sortby=pubdate&citation_for_view=ziHejLwAAAAJ:1sJd4Hv_s6UC
 
+- PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=ziHejLwAAAAJ&sortby=pubdate&citation_for_view=ziHejLwAAAAJ:2P1L_qKh6hAC
 
 ***
 Back to the [Top](#)  
