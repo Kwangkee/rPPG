@@ -43,6 +43,8 @@ MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing, 
 ## MMPD
 MMPD: Multi-Domain Mobile Video Physiology Dataset, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=MMPD%3A+Multi-Domain+Mobile+Video+Physiology+Dataset&btnG=
 
+- In an effort to help the field advance, we present the Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours of recordings from mobile phones of 33 subjects. The dataset was designed to capture videos with greater representation across skin tone, body motion, and lighting conditions. MMPD is comprehensive with eight descriptive labels and can be used in conjunction with the rPPG-toolbox [1]. The Github repository of our dataset: https://github.com/McJackTang/
+MMPD_rPPG_dataset.
 - Finally, many of the existing public rPPG datasets were recorded using digital single-lens reflex (DSLR) camera or devices from specialist imaging companies. This is in contrast with the types of cameras that are most ubiquitous, namely smartphone cameras. Video recorded with a DSLR is not the same as that recorded with a “selfie” camera.
 
 
