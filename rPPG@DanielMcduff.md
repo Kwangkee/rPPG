@@ -40,6 +40,11 @@ MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing, 
 >- pseudo PPG labels 를 얻기 위해 POS 를 사용했는데 한계가 많아서, 후방 카메라 (index finger) 를 활용했고, 결과적으로 모든 환경 변화에 적응할 수 있는 우수한 personalization 확인  
 >- 무엇보다 관심 가는 얘기는, We plan to release this dataset with this paper.  
 
+## MMPD
+MMPD: Multi-Domain Mobile Video Physiology Dataset, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=MMPD%3A+Multi-Domain+Mobile+Video+Physiology+Dataset&btnG=
+
+- Finally, many of the existing public rPPG datasets were recorded using digital single-lens reflex (DSLR) camera or devices from specialist imaging companies. This is in contrast with the types of cameras that are most ubiquitous, namely smartphone cameras. Video recorded with a DSLR is not the same as that recorded with a “selfie” camera.
+
 
 ***
 Back to the [Top](#rPPG)  
