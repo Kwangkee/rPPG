@@ -7,6 +7,9 @@ Back to https://github.com/Kwangkee/rPPG
 
 ## Papers
 - PhysFormer++: Facial Video-based Physiological Measurement with SlowFast Temporal Difference Transformer, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=ziHejLwAAAAJ&sortby=pubdate&citation_for_view=ziHejLwAAAAJ:1sJd4Hv_s6UC
+>- In other words, existing end-to-end methods only consider the spatio-temporal rPPG features from local neighbors and adjacent frames but neglect the long-range relationship among quasi-periodic rPPG features.
+>- Compared with the non-end-to-end learning based methods, end-to-end approaches are less dependent on task-related prior knowledge and handcrafted engineering (e.g., STmap generation) but rely on diverse and large-scale data to alleviate the problem of overfitting. 
+>- To enhance the long-range contextual spatio-temporal representation capacities and alleviate the data-hungry requirement of the deep rPPG models, we propose the PhysFormer and PhysFormer++ architectures, which can be easily trained from scratch on rPPG datasets with the elaborate supervision recipe.
 
 - PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=ziHejLwAAAAJ&sortby=pubdate&citation_for_view=ziHejLwAAAAJ:2P1L_qKh6hAC
 
