@@ -44,9 +44,12 @@ MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing, 
 MMPD: Multi-Domain Mobile Video Physiology Dataset, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=MMPD%3A+Multi-Domain+Mobile+Video+Physiology+Dataset&btnG=
 
 - In an effort to help the field advance, we present the Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours of recordings from mobile phones of 33 subjects. The dataset was designed to capture videos with greater representation across skin tone, body motion, and lighting conditions. MMPD is comprehensive with eight descriptive labels and can be used in conjunction with the rPPG-toolbox [1]. The Github repository of our dataset: https://github.com/McJackTang/MMPD_rPPG_dataset.
-- To address gaps in existing public rPPG datasets, we introduce the multi-domain mobile video physiology dataset (MMPD). Our dataset includes 33 subjects with Fitzpatrick skin types 3-6, four different lighting conditions (LED-high, LED-low, incandescent, natural), and four different activities (stationary, head rotation, talking, and walking). All videos in MMPD were captured using mobile phones. 
-- A total of 660 one-minute videos were recorded using a Samsung Galaxy S22 Ultra, while goldstandard PPG signals were simultaneously recorded using an HKG-07C+ oximeter. 
-- As previously noted, lighting and motion can greatly affect the extraction of PPG signals from videos. To further study these factors, we designed an experiment that simultaneously collects face videos and finger PPG signals. The experimental procedure is illustrated in Figure 1, and all the videos were captured at a distance that allows for touch.
+
+>- Finally, many of the existing public rPPG datasets were recorded using digital single-lens reflex (DSLR) camera or devices from specialist imaging companies. This is in contrast with the types of cameras that are most ubiquitous, namely smartphone cameras. Video recorded with a DSLR is not the same as that recorded with a “selfie” camera.
+
+>- To address gaps in existing public rPPG datasets, we introduce the multi-domain mobile video physiology dataset (MMPD). Our dataset includes 33 subjects with Fitzpatrick skin types 3-6, four different lighting conditions (LED-high, LED-low, incandescent, natural), and four different activities (stationary, head rotation, talking, and walking). All videos in MMPD were captured using mobile phones. 
+>- A total of 660 one-minute videos were recorded using a Samsung Galaxy S22 Ultra, while goldstandard PPG signals were simultaneously recorded using an HKG-07C+ oximeter. 
+>- As previously noted, lighting and motion can greatly affect the extraction of PPG signals from videos. To further study these factors, we designed an experiment that simultaneously collects face videos and finger PPG signals. The experimental procedure is illustrated in Figure 1, and all the videos were captured at a distance that allows for touch.
 
 ***
 Back to the [Top](#rPPG)  
