@@ -4,7 +4,7 @@ Back to https://github.com/Kwangkee/rPPG
 ## Papers
 - Video-based Remote Physiological Measurement via Self-supervised Learning, https://ieeexplore.ieee.org/abstract/document/9983619
 - Self-Supervised RGB-NIR Fusion Video Vision Transformer Framework for rPPG Estimation, https://ieeexplore.ieee.org/document/9931758
-
+- [[Self-rPPG: Learning the Optical & Physiological Mechanics of Remote Photoplethysmography with Self-Supervision](https://github.com/Kwangkee/rPPG/blob/main/rppg@SSL.md#self-rppg)], https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Self-rPPG%3A+Learning+the+Optical+%26+Physiological+Mechanics+of+Remote+Photoplethysmography+with+Self-Supervision&btnG=
 
 
 ## Self-rPPG
@@ -18,8 +18,6 @@ Abstract:
 9 CONCLUSION  
 - We propose and validate rPPG physics-inspired self-supervised methods to learn relevant rPPG features from unlabeled video data. Our self-supervised pretraining enables the network to perform heterogeneous rPPG reconstruction (finger, wrist) after finetuning with limited labeled data. 
 - We demonstrate the efficacy of our approach by experimenting with heterogeneous camera sensors (DSRL, HD, NIR) of three public datasets. We further investigate the impact of our self-supervised components to elaborate on their impact on learning. Our insights enable further fine-grain development of generalized, robust rPPG systems using unlabeled video data.
-
-## xyz
 
 ***
 Back to the [Top](#papers)  
