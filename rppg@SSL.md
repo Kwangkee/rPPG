@@ -2,7 +2,7 @@ Back to https://github.com/Kwangkee/rPPG
 ***
 
 ## Papers
-- Video-based Remote Physiological Measurement via Self-supervised Learning, https://ieeexplore.ieee.org/abstract/document/9983619
+- Video-based Remote Physiological Measurement via Self-supervised Learning, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Video-based+Remote+Physiological+Measurement+via+Self-supervised+Learning&btnG=
 - [[Self-Supervised RGB-NIR Fusion Video Vision Transformer Framework for rPPG Estimation](https://github.com/Kwangkee/rPPG/blob/main/rppg@SSL.md#self-supervised-rgb-nir-fusion)], https://ieeexplore.ieee.org/document/9931758
 - [[Self-rPPG: Learning the Optical & Physiological Mechanics of Remote Photoplethysmography with Self-Supervision](https://github.com/Kwangkee/rPPG/blob/main/rppg@SSL.md#self-rppg)], https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Self-rPPG%3A+Learning+the+Optical+%26+Physiological+Mechanics+of+Remote+Photoplethysmography+with+Self-Supervision&btnG=
 
