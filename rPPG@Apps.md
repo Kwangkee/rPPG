@@ -8,6 +8,8 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 |MX Labs/Heart Monitor|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
 |Veyetals|https://veyetals.com/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#veyetals|
 |국내|||
+|InnopiaTech/VitalApp |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App: Android App@InnopiaTech: https://apps.samsung.com/appquery/appDetail.as?appId=com.innopia.vitalsign
+|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
 |TVS/VitalApp |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App: http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp |https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
 |감성텍/HeartMonitor|http://www.gamsungtech.com/products.html|-|
 |PPG|||
@@ -43,7 +45,7 @@ Veyetals, https://veyetals.com/
 
 - Revise: Remote vital signs measurement using smartphone video camera (2022), https://arxiv.org/abs/2206.08748 
   >- Canada Queen’s 대학이 개발, veyetals 가 상용화, https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md#revise 
-  >-	rPPG 알고리듬은 [기존 우리 Non-DNN 버전](https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app)과 유사
+  >-rPPG 알고리듬은 [기존 우리 Non-DNN 버전](https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app)과 유사
 
 - A Web Application for Experimenting and Validating Remote Measurement of Vital Signs, https://arxiv.org/abs/2208.09916 
   >- https://github.com/Kwangkee/rPPG/blob/main/rPPG@DataSystem.md#a-web-application-for-experimenting-and-validating-remote-measurement-of-vital-signs 는 위의 학교 버전인 듯싶은데, Server-side (Backend) 포함해서 참고해 보면 좋겠습니다.
@@ -53,7 +55,8 @@ Veyetals, https://veyetals.com/
 ## Vital Sign Monitoring App
 [App] Vital Sign Monitoring App
 - Youtube : https://youtu.be/7eJ2SOdG7fs 
-- Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp
+- InnopiaTech/Android App: https://apps.samsung.com/appquery/appDetail.as?appId=com.innopia.vitalsign
+- TVS/Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp
 - [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582
 
 ***
