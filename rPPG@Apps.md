@@ -7,14 +7,13 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 |Nuralogix/Anura|https://www.nuralogix.ai/anura/|https://github.com/Kwangkee/rPPG/blob/main/rPPG%40Nuralogix.md#nuralogix-anura|
 |MX Labs/Heart Monitor|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
 |Veyetals|https://veyetals.com/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#veyetals|
-|국내|||
-|InnopiaTech |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App: Android App@InnopiaTech: https://apps.samsung.com/appquery/appDetail.as?appId=com.innopia.vitalsign|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
-|TVS |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App@TVS: http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp |https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
 |FaceHeart|https://www.faceheart.com/index.php||
 |Lifelight|https://lifelight.ai/||
 |Google|https://blog.google/technology/health/take-pulse-health-and-wellness-your-phone||
 |VPGMedical|https://www.vpgmedical.com/||
 |국내|||
+|InnopiaTech |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App: Android App@InnopiaTech: https://apps.samsung.com/appquery/appDetail.as?appId=com.innopia.vitalsign|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
+|TVS |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App@TVS: http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp |https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
 |지비소프트|https://www.gb-soft.co.kr/||
 |이후시스|http://www.ehoosys.com/|-|
 |바이오커넥트/vitaltracker|https://www.bioconnect.co.kr/vitaltracker|-|
