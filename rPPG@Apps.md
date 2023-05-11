@@ -8,8 +8,7 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 |MX Labs/Heart Monitor|https://mxlabs.ai/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#mx-labs|
 |Veyetals|https://veyetals.com/|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#veyetals|
 |국내|||
-|InnopiaTech/VitalApp |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App: Android App@InnopiaTech: https://apps.samsung.com/appquery/appDetail.as?appId=com.innopia.vitalsign
-|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
+|InnopiaTech/VitalApp |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App: Android App@InnopiaTech: https://apps.samsung.com/appquery/appDetail.as?appId=com.innopia.vitalsign|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
 |TVS/VitalApp |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App: http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp |https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
 |감성텍/HeartMonitor|http://www.gamsungtech.com/products.html|-|
 |PPG|||
