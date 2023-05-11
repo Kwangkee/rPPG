@@ -15,6 +15,7 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 |Google|https://blog.google/technology/health/take-pulse-health-and-wellness-your-phone||
 |VPGMedical|https://www.vpgmedical.com/||
 |국내|||
+|지비소프트|https://www.gb-soft.co.kr/||
 |이후시스|http://www.ehoosys.com/|-|
 |바이오커넥트/vitaltracker|https://www.bioconnect.co.kr/vitaltracker|-|
 |감성텍/HeartMonitor|http://www.gamsungtech.com/products.html|-|
