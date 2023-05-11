@@ -11,6 +11,10 @@ rPPG Venders, https://github.com/Kwangkee/rPPG/blob/main/readme.md#vendors
 |InnopiaTech |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App: Android App@InnopiaTech: https://apps.samsung.com/appquery/appDetail.as?appId=com.innopia.vitalsign|https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
 |TVS |Youtube: https://youtu.be/7eJ2SOdG7fs, Android App@TVS: http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp |https://github.com/Kwangkee/rPPG/blob/main/rPPG@Apps.md#vital-sign-monitoring-app|
 |감성텍/HeartMonitor|http://www.gamsungtech.com/products.html|-|
+|FaceHeart|https://www.faceheart.com/index.php||
+|Lifelight|https://lifelight.ai/||
+|Google|https://blog.google/technology/health/take-pulse-health-and-wellness-your-phone||
+|VPGMedical|https://www.vpgmedical.com/||
 |PPG|||
 |심박수 측정기 - 펄스|https://play.google.com/store/apps/details?id=heartratemonitor.heartrate.pulse.pulseapp|-|
 
