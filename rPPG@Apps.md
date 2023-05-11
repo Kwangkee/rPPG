@@ -24,7 +24,7 @@ Binah, https://www.binah.ai/
 ## MX Labs
 MX Labs, https://mxlabs.ai
 
-## MX Labs Demo
+#### MX Labs Demo
 - PC: https://www.webheartmonitor.com/en
 - Android: https://play.google.com/store/apps/details?id=ai.mxlabs.heartmonitor
 - Apple: https://apps.apple.com/pl/app/heart-monitor-blood-pressure/id1552404863
@@ -52,8 +52,8 @@ Veyetals, https://veyetals.com/
 ***
 ## Vital Sign Monitoring App
 [App] Vital Sign Monitoring App
-- Youtube : https://youtu.be/7eJ2SOdG7fs  
-- Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp  
+- Youtube : https://youtu.be/7eJ2SOdG7fs 
+- Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp
 - [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582
 
 ***
